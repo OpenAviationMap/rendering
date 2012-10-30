@@ -1,0 +1,9 @@
+alter table planet_osm_polygon rename "airspace:type"       to airspace_type;
+alter table planet_osm_polygon rename "airspace:class"      to airspace_class;
+alter table planet_osm_polygon rename "height:lower"        to height_lower;
+alter table planet_osm_polygon rename "height:lower:class"  to height_lower_class;
+alter table planet_osm_polygon rename "height:lower:unit"   to height_lower_unit;
+alter table planet_osm_polygon rename "height:upper"        to height_upper;
+alter table planet_osm_polygon rename "height:upper:class"  to height_upper_class;
+alter table planet_osm_polygon rename "height:upper:unit"   to height_upper_unit;
+alter table planet_osm_polygon rename "comm:ctr"            to comm_ctr;

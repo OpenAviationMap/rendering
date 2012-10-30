@@ -179,7 +179,7 @@
                     <sld:LineSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">50</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">25</sld:CssParameter>
                         </sld:Stroke>
                     </sld:LineSymbolizer>
                     <sld:LineSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
