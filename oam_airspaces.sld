@@ -140,6 +140,7 @@
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
+                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -282,6 +283,7 @@
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
+                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -424,6 +426,7 @@
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
+                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -566,6 +569,7 @@
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
+                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -714,6 +718,7 @@
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
+                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -846,6 +851,7 @@
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
+                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -899,44 +905,13 @@
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
-                            <ogc:PropertyName>airspace_class</ogc:PropertyName>
-                        </sld:Label>
-                        <sld:Font>
-                            <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">1500</sld:CssParameter>
-                            <sld:CssParameter name="font-style">normal</sld:CssParameter>
-                            <sld:CssParameter name="font-weight">bold</sld:CssParameter>
-                        </sld:Font>
-                        <sld:LabelPlacement>
-                            <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-3100</sld:PerpendicularOffset>
-                            </sld:LinePlacement>
-                        </sld:LabelPlacement>
-                        <sld:Fill>
-                            <CssParameter name="fill">#FFFFFF</CssParameter>
-                        </sld:Fill>
-                        <sld:Graphic>
-                            <sld:Mark>
-                                <sld:WellKnownName>square</sld:WellKnownName>
-                                <sld:Fill>
-                                    <sld:CssParameter name="fill">#0000FF</sld:CssParameter>
-                                </sld:Fill>
-                                <sld:Stroke>
-                                    <sld:CssParameter name="stroke">#FFFFFF</sld:CssParameter>
-                                </sld:Stroke>
-                            </sld:Mark>
-                            <sld:Size>2000</sld:Size>
-                        </sld:Graphic>
-                        <sld:VendorOption name="followLine">true</sld:VendorOption>
-                        <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                    </sld:TextSymbolizer>
-                    <sld:TextSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
-                        <sld:Geometry>
-                            <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                            <ogc:Function name="if_then_else">
+                                <ogc:Function name="isNull">
+                                    <ogc:PropertyName>airspace_class</ogc:PropertyName>
+                                </ogc:Function>
+                                <ogc:Literal></ogc:Literal>
+                                <ogc:PropertyName>airspace_class</ogc:PropertyName>
                             </ogc:Function>
-                        </sld:Geometry>
-                        <sld:Label>
                             <ogc:PropertyName>name</ogc:PropertyName>
                             <!-- only display lower airspace elevation if it is not 0ft AGL -->
                             <ogc:Function name="if_then_else">
@@ -1026,6 +1001,7 @@
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -1074,44 +1050,13 @@
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
-                            <ogc:PropertyName>airspace_class</ogc:PropertyName>
-                        </sld:Label>
-                        <sld:Font>
-                            <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">1500</sld:CssParameter>
-                            <sld:CssParameter name="font-style">normal</sld:CssParameter>
-                            <sld:CssParameter name="font-weight">bold</sld:CssParameter>
-                        </sld:Font>
-                        <sld:LabelPlacement>
-                            <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-3100</sld:PerpendicularOffset>
-                            </sld:LinePlacement>
-                        </sld:LabelPlacement>
-                        <sld:Fill>
-                            <CssParameter name="fill">#FFFFFF</CssParameter>
-                        </sld:Fill>
-                        <sld:Graphic>
-                            <sld:Mark>
-                                <sld:WellKnownName>square</sld:WellKnownName>
-                                <sld:Fill>
-                                    <sld:CssParameter name="fill">#0000FF</sld:CssParameter>
-                                </sld:Fill>
-                                <sld:Stroke>
-                                    <sld:CssParameter name="stroke">#FFFFFF</sld:CssParameter>
-                                </sld:Stroke>
-                            </sld:Mark>
-                            <sld:Size>2000</sld:Size>
-                        </sld:Graphic>
-                        <sld:VendorOption name="followLine">true</sld:VendorOption>
-                        <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                    </sld:TextSymbolizer>
-                    <sld:TextSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
-                        <sld:Geometry>
-                            <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                            <ogc:Function name="if_then_else">
+                                <ogc:Function name="isNull">
+                                    <ogc:PropertyName>airspace_class</ogc:PropertyName>
+                                </ogc:Function>
+                                <ogc:Literal></ogc:Literal>
+                                <ogc:PropertyName>airspace_class</ogc:PropertyName>
                             </ogc:Function>
-                        </sld:Geometry>
-                        <sld:Label>
                             <ogc:PropertyName>name</ogc:PropertyName>
                             <!-- only display lower airspace elevation if it is not 0ft AGL -->
                             <ogc:Function name="if_then_else">
@@ -1201,6 +1146,7 @@
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -1246,44 +1192,13 @@
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
-                            <ogc:PropertyName>airspace_class</ogc:PropertyName>
-                        </sld:Label>
-                        <sld:Font>
-                            <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">1500</sld:CssParameter>
-                            <sld:CssParameter name="font-style">normal</sld:CssParameter>
-                            <sld:CssParameter name="font-weight">bold</sld:CssParameter>
-                        </sld:Font>
-                        <sld:LabelPlacement>
-                            <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-1600</sld:PerpendicularOffset>
-                            </sld:LinePlacement>
-                        </sld:LabelPlacement>
-                        <sld:Fill>
-                            <CssParameter name="fill">#FFFFFF</CssParameter>
-                        </sld:Fill>
-                        <sld:Graphic>
-                            <sld:Mark>
-                                <sld:WellKnownName>square</sld:WellKnownName>
-                                <sld:Fill>
-                                    <sld:CssParameter name="fill">#0000FF</sld:CssParameter>
-                                </sld:Fill>
-                                <sld:Stroke>
-                                    <sld:CssParameter name="stroke">#FFFFFF</sld:CssParameter>
-                                </sld:Stroke>
-                            </sld:Mark>
-                            <sld:Size>2000</sld:Size>
-                        </sld:Graphic>
-                        <sld:VendorOption name="followLine">true</sld:VendorOption>
-                        <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                    </sld:TextSymbolizer>
-                    <sld:TextSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
-                        <sld:Geometry>
-                            <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                            <ogc:Function name="if_then_else">
+                                <ogc:Function name="isNull">
+                                    <ogc:PropertyName>airspace_class</ogc:PropertyName>
+                                </ogc:Function>
+                                <ogc:Literal></ogc:Literal>
+                                <ogc:PropertyName>airspace_class</ogc:PropertyName>
                             </ogc:Function>
-                        </sld:Geometry>
-                        <sld:Label>
                             <ogc:PropertyName>name</ogc:PropertyName>
                             <!-- only display lower airspace elevation if it is not 0ft AGL -->
                             <ogc:Function name="if_then_else">
@@ -1373,6 +1288,7 @@
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -1413,44 +1329,13 @@
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
-                            <ogc:PropertyName>airspace_class</ogc:PropertyName>
-                        </sld:Label>
-                        <sld:Font>
-                            <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">1500</sld:CssParameter>
-                            <sld:CssParameter name="font-style">normal</sld:CssParameter>
-                            <sld:CssParameter name="font-weight">bold</sld:CssParameter>
-                        </sld:Font>
-                        <sld:LabelPlacement>
-                            <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-1600</sld:PerpendicularOffset>
-                            </sld:LinePlacement>
-                        </sld:LabelPlacement>
-                        <sld:Fill>
-                            <CssParameter name="fill">#FFFFFF</CssParameter>
-                        </sld:Fill>
-                        <sld:Graphic>
-                            <sld:Mark>
-                                <sld:WellKnownName>square</sld:WellKnownName>
-                                <sld:Fill>
-                                    <sld:CssParameter name="fill">#0000FF</sld:CssParameter>
-                                </sld:Fill>
-                                <sld:Stroke>
-                                    <sld:CssParameter name="stroke">#FFFFFF</sld:CssParameter>
-                                </sld:Stroke>
-                            </sld:Mark>
-                            <sld:Size>2000</sld:Size>
-                        </sld:Graphic>
-                        <sld:VendorOption name="followLine">true</sld:VendorOption>
-                        <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                    </sld:TextSymbolizer>
-                    <sld:TextSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
-                        <sld:Geometry>
-                            <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                            <ogc:Function name="if_then_else">
+                                <ogc:Function name="isNull">
+                                    <ogc:PropertyName>airspace_class</ogc:PropertyName>
+                                </ogc:Function>
+                                <ogc:Literal></ogc:Literal>
+                                <ogc:PropertyName>airspace_class</ogc:PropertyName>
                             </ogc:Function>
-                        </sld:Geometry>
-                        <sld:Label>
                             <ogc:PropertyName>name</ogc:PropertyName>
                             <!-- only display lower airspace elevation if it is not 0ft AGL -->
                             <ogc:Function name="if_then_else">
@@ -1540,6 +1425,7 @@
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
