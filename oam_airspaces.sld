@@ -140,7 +140,8 @@
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -283,7 +284,8 @@
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -426,7 +428,8 @@
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -569,7 +572,8 @@
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -718,7 +722,8 @@
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -851,7 +856,8 @@
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -1001,7 +1007,10 @@
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
+                        <sld:VendorOption name="repeat">5000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -1146,7 +1155,8 @@
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -1288,7 +1298,8 @@
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -1414,7 +1425,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-1600</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-3200</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -1423,9 +1434,9 @@
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">10000</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="repeat">5000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
