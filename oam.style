@@ -24,26 +24,49 @@
 # obviously)
 
 # OsmType  Tag          DataType     Flags
-node,way   note         text         delete   # These tags can be long but are useless for rendering
-node,way   source       text         delete   # This indicates that we shouldn't store them
-node,way   created_by   text         delete
+node,way    note         text         delete   # These tags can be long but are useless for rendering
+node,way    source       text         delete   # This indicates that we shouldn't store them
+node,way    created_by   text         delete
 
-node,way   name         text         linear
-node,way   operator     text         linear
+node,way    name         text         linear
+node,way    operator     text         linear
 
-node,way   activetime           text
-node,way   airspace             text    polygon
-node,way   airspace:type        text
-node,way   airspace:class       text
-node,way   height:lower         text
-node,way   height:lower:class   text
-node,way   height:lower:unit    text
-node,way   height:upper         text
-node,way   height:upper:class   text
-node,way   height:upper:unit    text
-node,way   icao                 text
-node,way   comm:ctr             text
-node,way   remarks              text
+node,way    activetime          text
+node,way    remarks             text
+
+way         airspace            text    polygon
+way         airspace:type       text
+way         airspace:class      text
+way         height:lower        text
+way         height:lower:class  text
+way         height:lower:unit   text
+way         height:upper        text
+way         height:upper:class  text
+way         height:upper:unit   text
+way         icao                text
+way         comm:ctr            text
+
+node        id                      text
+node        height                  text
+node        height:class            text
+node        height:unit             text
+node        navaid                  text
+node        navaid:activetime       text
+node        navaid:coverage         text
+node        navaid:coverage:unit    text
+node        navaid:declination      text
+node        navaid:variation        text
+node        navaid:variation:year   text
+node        navaid:dme              text
+node        navaid:ident            text
+node        navaid:type             text
+node        navaid:vor              text
+node        navaid:vot              text
+node        navaid:ndb              text
+node        navaid:marker           text
+node        navaid:gp               text
+node        navaid:loc              text
+
 
 
 node,way   z_order      int4         linear # This is calculated during import
