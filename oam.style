@@ -46,7 +46,10 @@ way         height:upper:unit   text
 way         icao                text
 way         comm:ctr            text
 
+way         aeroway             text
+
 node        id                      text
+node        arp                     text
 node        height                  text
 node        height:class            text
 node        height:unit             text

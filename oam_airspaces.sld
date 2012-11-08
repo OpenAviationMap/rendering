@@ -1010,7 +1010,7 @@
                         <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">5000</sld:VendorOption>
+                        <sld:VendorOption name="repeat">100000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -1436,7 +1436,7 @@
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">5000</sld:VendorOption>
+                        <sld:VendorOption name="repeat">100000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>

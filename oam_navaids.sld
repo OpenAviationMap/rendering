@@ -64,7 +64,7 @@
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">5000</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -133,8 +133,8 @@
                             <sld:Size>1000</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">4</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">5000</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">500</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -215,8 +215,8 @@
                             <sld:Size>1000</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">4</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">5000</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">500</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -285,8 +285,71 @@
                             <sld:Size>1000</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">4</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">5000</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">500</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
+                    </sld:TextSymbolizer>
+                </sld:Rule>
+            </sld:FeatureTypeStyle>
+          
+            <sld:FeatureTypeStyle>
+                <sld:Name>airports</sld:Name>
+                <sld:Rule>
+                    <ogc:Filter>
+                        <ogc:PropertyIsEqualTo>
+                            <ogc:PropertyName>arp</ogc:PropertyName>
+                            <ogc:Literal>yes</ogc:Literal>
+                        </ogc:PropertyIsEqualTo>
+                    </ogc:Filter>
+                    <sld:PointSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
+                        <sld:Graphic>
+                            <sld:Mark>
+                                <sld:WellKnownName>circle</sld:WellKnownName>
+                                <sld:Stroke>
+                                    <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">500</sld:CssParameter>
+                                </sld:Stroke>
+                            </sld:Mark>
+                            <sld:Size>2500</sld:Size>
+                        </sld:Graphic>
+                    </sld:PointSymbolizer>
+                    <sld:TextSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
+                        <sld:Label>
+                            <ogc:Function name="strSubstring">
+                                <ogc:PropertyName>name</ogc:PropertyName>
+                                <ogc:Function name="parseInt">
+                                    <ogc:Literal>0</ogc:Literal>
+                                </ogc:Function>
+                                <ogc:Function name="strLastIndexOf">
+                                    <ogc:PropertyName>name</ogc:PropertyName>
+                                    <ogc:Literal> ARP</ogc:Literal>
+                                </ogc:Function>
+                            </ogc:Function>
+                        </sld:Label>
+                        <sld:Font>
+                            <sld:CssParameter name="font-family">Arial</sld:CssParameter>
+                            <sld:CssParameter name="font-size">1500</sld:CssParameter>
+                            <sld:CssParameter name="font-style">normal</sld:CssParameter>
+                            <sld:CssParameter name="font-weight">bold</sld:CssParameter>
+                        </sld:Font>
+                        <sld:LabelPlacement>
+                            <sld:PointPlacement>
+                                <sld:AnchorPoint>
+                                    <sld:AnchorPointX>0</sld:AnchorPointX>
+                                    <sld:AnchorPointY>0.5</sld:AnchorPointY>
+                                </sld:AnchorPoint>
+                                <sld:Displacement>
+                                    <sld:DisplacementX>2000</sld:DisplacementX>
+                                    <sld:DisplacementY>1000</sld:DisplacementY>
+                                </sld:Displacement>
+                            </sld:PointPlacement>
+                        </sld:LabelPlacement>
+                        <sld:Halo>
+                            <sld:Radius>100</sld:Radius>
+                        </sld:Halo>
+                        <sld:Fill>
+                            <CssParameter name="fill">#0000FF</CssParameter>
+                        </sld:Fill>
+                        <sld:VendorOption name="maxDisplacement">50000</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
