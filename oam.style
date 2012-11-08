@@ -47,6 +47,7 @@ way         icao                text
 way         comm:ctr            text
 
 way         aeroway             text
+way         width               text
 
 node        id                      text
 node        arp                     text
