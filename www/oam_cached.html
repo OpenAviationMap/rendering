@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Open Aviation Map - roads</title>
+	<meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="leaflet/leaflet.css" />
+	<!--[if lte IE 8]><link rel="stylesheet" href="leaflet/leaflet.ie.css" /><![endif]-->
+</head>
+<body>
+	<div id="map" style="width: 1024px; height: 768px"></div>
+
+	<script src="leaflet/leaflet.js"></script>
+	<script>
+
+        var map = L.map('map', {
+            center: [47.2622, 19.1543],
+            zoom: 9
+        });
+
+		L.tileLayer.wms('http://localhost:8080/geoserver/OAM/wms', {
+            layers: 'oam',
+            format: 'image/png',
+			attribution: 'Open Aviation Map'
+		}).addTo(map);
+
+	</script>
+</body>
+</html>
