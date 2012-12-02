@@ -44,6 +44,7 @@ way         height:upper        text
 way         height:upper:class  text
 way         height:upper:unit   text
 way         icao                text
+way         compound            text
 way         comm:ctr            text
 
 way         aeroway             text
