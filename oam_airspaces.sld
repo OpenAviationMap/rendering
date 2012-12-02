@@ -21,6 +21,18 @@
                                 <ogc:PropertyName>airspace</ogc:PropertyName>
                                 <ogc:Literal>yes</ogc:Literal>
                             </ogc:PropertyIsEqualTo>
+                            <ogc:Or>
+                                <ogc:PropertyIsEqualTo>
+                                    <ogc:Function name="isNull">
+                                        <ogc:PropertyName>compound</ogc:PropertyName>
+                                    </ogc:Function>
+                                    <ogc:Literal>true</ogc:Literal>
+                                </ogc:PropertyIsEqualTo>
+                                <ogc:PropertyIsNotEqualTo>
+                                    <ogc:PropertyName>compound</ogc:PropertyName>
+                                    <ogc:Literal>original</ogc:Literal>
+                                </ogc:PropertyIsNotEqualTo>
+                            </ogc:Or>
                             <ogc:PropertyIsEqualTo>
                                 <ogc:PropertyName>airspace_type</ogc:PropertyName>
                                 <ogc:Literal>P</ogc:Literal>
@@ -155,6 +167,18 @@
                                 <ogc:PropertyName>airspace</ogc:PropertyName>
                                 <ogc:Literal>yes</ogc:Literal>
                             </ogc:PropertyIsEqualTo>
+                            <ogc:Or>
+                                <ogc:PropertyIsEqualTo>
+                                    <ogc:Function name="isNull">
+                                        <ogc:PropertyName>compound</ogc:PropertyName>
+                                    </ogc:Function>
+                                    <ogc:Literal>true</ogc:Literal>
+                                </ogc:PropertyIsEqualTo>
+                                <ogc:PropertyIsNotEqualTo>
+                                    <ogc:PropertyName>compound</ogc:PropertyName>
+                                    <ogc:Literal>original</ogc:Literal>
+                                </ogc:PropertyIsNotEqualTo>
+                            </ogc:Or>
                             <ogc:PropertyIsEqualTo>
                                 <ogc:PropertyName>airspace_type</ogc:PropertyName>
                                 <ogc:Literal>R</ogc:Literal>
@@ -299,6 +323,18 @@
                                 <ogc:PropertyName>airspace</ogc:PropertyName>
                                 <ogc:Literal>yes</ogc:Literal>
                             </ogc:PropertyIsEqualTo>
+                            <ogc:Or>
+                                <ogc:PropertyIsEqualTo>
+                                    <ogc:Function name="isNull">
+                                        <ogc:PropertyName>compound</ogc:PropertyName>
+                                    </ogc:Function>
+                                    <ogc:Literal>true</ogc:Literal>
+                                </ogc:PropertyIsEqualTo>
+                                <ogc:PropertyIsNotEqualTo>
+                                    <ogc:PropertyName>compound</ogc:PropertyName>
+                                    <ogc:Literal>original</ogc:Literal>
+                                </ogc:PropertyIsNotEqualTo>
+                            </ogc:Or>
                             <ogc:PropertyIsEqualTo>
                                 <ogc:PropertyName>airspace_type</ogc:PropertyName>
                                 <ogc:Literal>D</ogc:Literal>
@@ -443,6 +479,18 @@
                                 <ogc:PropertyName>airspace</ogc:PropertyName>
                                 <ogc:Literal>yes</ogc:Literal>
                             </ogc:PropertyIsEqualTo>
+                            <ogc:Or>
+                                <ogc:PropertyIsEqualTo>
+                                    <ogc:Function name="isNull">
+                                        <ogc:PropertyName>compound</ogc:PropertyName>
+                                    </ogc:Function>
+                                    <ogc:Literal>true</ogc:Literal>
+                                </ogc:PropertyIsEqualTo>
+                                <ogc:PropertyIsNotEqualTo>
+                                    <ogc:PropertyName>compound</ogc:PropertyName>
+                                    <ogc:Literal>original</ogc:Literal>
+                                </ogc:PropertyIsNotEqualTo>
+                            </ogc:Or>
                             <ogc:PropertyIsEqualTo>
                                 <ogc:PropertyName>airspace_type</ogc:PropertyName>
                                 <ogc:Literal>B</ogc:Literal>
@@ -587,6 +635,18 @@
                                 <ogc:PropertyName>airspace</ogc:PropertyName>
                                 <ogc:Literal>yes</ogc:Literal>
                             </ogc:PropertyIsEqualTo>
+                            <ogc:Or>
+                                <ogc:PropertyIsEqualTo>
+                                    <ogc:Function name="isNull">
+                                        <ogc:PropertyName>compound</ogc:PropertyName>
+                                    </ogc:Function>
+                                    <ogc:Literal>true</ogc:Literal>
+                                </ogc:PropertyIsEqualTo>
+                                <ogc:PropertyIsNotEqualTo>
+                                    <ogc:PropertyName>compound</ogc:PropertyName>
+                                    <ogc:Literal>original</ogc:Literal>
+                                </ogc:PropertyIsNotEqualTo>
+                            </ogc:Or>
                             <ogc:Or>
                                 <ogc:PropertyIsEqualTo>
                                     <ogc:PropertyName>airspace_type</ogc:PropertyName>
@@ -737,6 +797,18 @@
                                 <ogc:PropertyName>airspace</ogc:PropertyName>
                                 <ogc:Literal>yes</ogc:Literal>
                             </ogc:PropertyIsEqualTo>
+                            <ogc:Or>
+                                <ogc:PropertyIsEqualTo>
+                                    <ogc:Function name="isNull">
+                                        <ogc:PropertyName>compound</ogc:PropertyName>
+                                    </ogc:Function>
+                                    <ogc:Literal>true</ogc:Literal>
+                                </ogc:PropertyIsEqualTo>
+                                <ogc:PropertyIsNotEqualTo>
+                                    <ogc:PropertyName>compound</ogc:PropertyName>
+                                    <ogc:Literal>original</ogc:Literal>
+                                </ogc:PropertyIsNotEqualTo>
+                            </ogc:Or>
                             <ogc:PropertyIsEqualTo>
                                 <ogc:PropertyName>airspace_type</ogc:PropertyName>
                                 <ogc:Literal>TRA</ogc:Literal>
@@ -871,6 +943,18 @@
                                 <ogc:PropertyName>airspace</ogc:PropertyName>
                                 <ogc:Literal>yes</ogc:Literal>
                             </ogc:PropertyIsEqualTo>
+                            <ogc:Or>
+                                <ogc:PropertyIsEqualTo>
+                                    <ogc:Function name="isNull">
+                                        <ogc:PropertyName>compound</ogc:PropertyName>
+                                    </ogc:Function>
+                                    <ogc:Literal>true</ogc:Literal>
+                                </ogc:PropertyIsEqualTo>
+                                <ogc:PropertyIsNotEqualTo>
+                                    <ogc:PropertyName>compound</ogc:PropertyName>
+                                    <ogc:Literal>original</ogc:Literal>
+                                </ogc:PropertyIsNotEqualTo>
+                            </ogc:Or>
                             <ogc:Or>
                                 <ogc:PropertyIsEqualTo>
                                     <ogc:PropertyName>airspace_type</ogc:PropertyName>
@@ -1024,6 +1108,18 @@
                                 <ogc:PropertyName>airspace</ogc:PropertyName>
                                 <ogc:Literal>yes</ogc:Literal>
                             </ogc:PropertyIsEqualTo>
+                            <ogc:Or>
+                                <ogc:PropertyIsEqualTo>
+                                    <ogc:Function name="isNull">
+                                        <ogc:PropertyName>compound</ogc:PropertyName>
+                                    </ogc:Function>
+                                    <ogc:Literal>true</ogc:Literal>
+                                </ogc:PropertyIsEqualTo>
+                                <ogc:PropertyIsNotEqualTo>
+                                    <ogc:PropertyName>compound</ogc:PropertyName>
+                                    <ogc:Literal>original</ogc:Literal>
+                                </ogc:PropertyIsNotEqualTo>
+                            </ogc:Or>
                             <ogc:PropertyIsEqualTo>
                                 <ogc:PropertyName>airspace_type</ogc:PropertyName>
                                 <ogc:Literal>TIZ</ogc:Literal>
@@ -1172,6 +1268,18 @@
                             </ogc:PropertyIsEqualTo>
                             <ogc:Or>
                                 <ogc:PropertyIsEqualTo>
+                                    <ogc:Function name="isNull">
+                                        <ogc:PropertyName>compound</ogc:PropertyName>
+                                    </ogc:Function>
+                                    <ogc:Literal>true</ogc:Literal>
+                                </ogc:PropertyIsEqualTo>
+                                <ogc:PropertyIsNotEqualTo>
+                                    <ogc:PropertyName>compound</ogc:PropertyName>
+                                    <ogc:Literal>original</ogc:Literal>
+                                </ogc:PropertyIsNotEqualTo>
+                            </ogc:Or>
+                            <ogc:Or>
+                                <ogc:PropertyIsEqualTo>
                                     <ogc:PropertyName>airspace_type</ogc:PropertyName>
                                     <ogc:Literal>CTR</ogc:Literal>
                                 </ogc:PropertyIsEqualTo>
@@ -1313,6 +1421,18 @@
                                 <ogc:PropertyName>airspace</ogc:PropertyName>
                                 <ogc:Literal>yes</ogc:Literal>
                             </ogc:PropertyIsEqualTo>
+                            <ogc:Or>
+                                <ogc:PropertyIsEqualTo>
+                                    <ogc:Function name="isNull">
+                                        <ogc:PropertyName>compound</ogc:PropertyName>
+                                    </ogc:Function>
+                                    <ogc:Literal>true</ogc:Literal>
+                                </ogc:PropertyIsEqualTo>
+                                <ogc:PropertyIsNotEqualTo>
+                                    <ogc:PropertyName>compound</ogc:PropertyName>
+                                    <ogc:Literal>original</ogc:Literal>
+                                </ogc:PropertyIsNotEqualTo>
+                            </ogc:Or>
                             <ogc:PropertyIsEqualTo>
                                 <ogc:PropertyName>airspace_type</ogc:PropertyName>
                                 <ogc:Literal>FIR</ogc:Literal>
