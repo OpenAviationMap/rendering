@@ -34609,7 +34609,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -34766,7 +34766,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -34923,7 +34923,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -35080,7 +35080,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -35237,7 +35237,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -35394,7 +35394,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -35551,7 +35551,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -35708,7 +35708,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -35865,7 +35865,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -36022,7 +36022,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -36179,7 +36179,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -36336,7 +36336,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -36493,7 +36493,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -36650,7 +36650,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -36807,7 +36807,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -36964,7 +36964,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -37121,7 +37121,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -37278,7 +37278,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -37435,7 +37435,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -37592,7 +37592,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -37749,7 +37749,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -37906,7 +37906,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -38063,7 +38063,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -38220,7 +38220,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -38377,7 +38377,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -38534,7 +38534,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -38691,7 +38691,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -38848,7 +38848,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -39005,7 +39005,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -39162,7 +39162,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -39319,7 +39319,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -39475,7 +39475,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">69 69</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -39640,7 +39640,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -39794,7 +39794,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -39948,7 +39948,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -40102,7 +40102,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -40256,7 +40256,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -40410,7 +40410,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -40564,7 +40564,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -40718,7 +40718,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -40872,7 +40872,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -41026,7 +41026,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -41180,7 +41180,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -41334,7 +41334,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -41488,7 +41488,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -41642,7 +41642,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -41796,7 +41796,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -41950,7 +41950,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -42104,7 +42104,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -42258,7 +42258,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -42412,7 +42412,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -42566,7 +42566,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -42720,7 +42720,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -42874,7 +42874,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -43028,7 +43028,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -43182,7 +43182,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -43336,7 +43336,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -43490,7 +43490,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -43644,7 +43644,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -43798,7 +43798,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -43952,7 +43952,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -44106,7 +44106,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -44260,7 +44260,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -44413,7 +44413,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -44570,7 +44570,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -44718,7 +44718,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -44866,7 +44866,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -45014,7 +45014,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -45162,7 +45162,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -45310,7 +45310,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -45458,7 +45458,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -45606,7 +45606,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -45754,7 +45754,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -45902,7 +45902,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -46050,7 +46050,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -46198,7 +46198,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -46346,7 +46346,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -46494,7 +46494,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -46642,7 +46642,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -46790,7 +46790,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -46938,7 +46938,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -47086,7 +47086,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -47234,7 +47234,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -47382,7 +47382,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -47530,7 +47530,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -47678,7 +47678,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -47826,7 +47826,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -47974,7 +47974,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -48122,7 +48122,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -48270,7 +48270,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -48418,7 +48418,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -48566,7 +48566,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -48714,7 +48714,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -48862,7 +48862,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -49010,7 +49010,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -49157,7 +49157,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">482 138</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>

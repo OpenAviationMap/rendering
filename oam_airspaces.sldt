@@ -1294,7 +1294,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">0.5mm</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">20mm 5mm</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">5mm 2mm</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -1450,7 +1450,7 @@
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
                             <sld:CssParameter name="stroke-width">0.5mm</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">20mm 5mm</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">5mm 2mm</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
