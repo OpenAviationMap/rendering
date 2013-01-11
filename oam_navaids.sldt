@@ -309,10 +309,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0.5mm</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">300m</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>5mm</sld:Size>
+                            <sld:Size>3000m</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
