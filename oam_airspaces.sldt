@@ -51,7 +51,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-3mm</ogc:Literal>
+                                    <ogc:Literal>-2mm</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -197,7 +197,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-3mm</ogc:Literal>
+                                     <ogc:Literal>-2mm</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -353,7 +353,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-3mm</ogc:Literal>
+                                    <ogc:Literal>-2mm</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -509,7 +509,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-3mm</ogc:Literal>
+                                    <ogc:Literal>-2mm</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -671,7 +671,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-3mm</ogc:Literal>
+                                    <ogc:Literal>-2mm</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -827,7 +827,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-3mm</ogc:Literal>
+                                    <ogc:Literal>-2mm</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -979,7 +979,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-3mm</ogc:Literal>
+                                    <ogc:Literal>-2mm</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -1139,7 +1139,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-3mm</ogc:Literal>
+                                    <ogc:Literal>-2mm</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -1442,7 +1442,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">0.6mm</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">4mm</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
@@ -1556,7 +1556,7 @@
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">100mm</sld:VendorOption>
+                        <sld:VendorOption name="repeat">50000m</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
