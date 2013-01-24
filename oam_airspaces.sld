@@ -84,10 +84,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -229,10 +235,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -374,10 +386,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -519,10 +537,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -664,10 +688,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -809,10 +839,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -954,10 +990,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -1099,10 +1141,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -1244,10 +1292,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -1389,10 +1443,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -1534,10 +1594,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -1679,10 +1745,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -1824,10 +1896,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -1969,10 +2047,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -2114,10 +2198,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -2259,10 +2349,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -2404,10 +2500,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -2549,10 +2651,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -2694,10 +2802,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -2839,10 +2953,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -2984,10 +3104,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -3129,10 +3255,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -3274,10 +3406,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -3419,10 +3557,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -3564,10 +3708,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -3709,10 +3859,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -3854,10 +4010,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -3999,10 +4161,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -4144,10 +4312,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -4289,10 +4463,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -4434,10 +4614,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -4578,10 +4764,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -4735,10 +4927,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -4890,10 +5088,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -5045,10 +5249,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -5200,10 +5410,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -5355,10 +5571,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -5510,10 +5732,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -5665,10 +5893,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -5820,10 +6054,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -5975,10 +6215,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -6130,10 +6376,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -6285,10 +6537,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -6440,10 +6698,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -6595,10 +6859,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -6750,10 +7020,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -6905,10 +7181,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -7060,10 +7342,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -7215,10 +7503,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -7370,10 +7664,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -7525,10 +7825,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -7680,10 +7986,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -7835,10 +8147,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -7990,10 +8308,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -8145,10 +8469,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -8300,10 +8630,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -8455,10 +8791,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -8610,10 +8952,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -8765,10 +9113,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -8920,10 +9274,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -9075,10 +9435,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -9230,10 +9596,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -9385,10 +9757,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -9539,10 +9917,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -9696,10 +10080,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -9851,10 +10241,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -10006,10 +10402,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -10161,10 +10563,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -10316,10 +10724,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -10471,10 +10885,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -10626,10 +11046,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -10781,10 +11207,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -10936,10 +11368,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -11091,10 +11529,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -11246,10 +11690,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -11401,10 +11851,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -11556,10 +12012,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -11711,10 +12173,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -11866,10 +12334,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -12021,10 +12495,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -12176,10 +12656,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -12331,10 +12817,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -12486,10 +12978,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -12641,10 +13139,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -12796,10 +13300,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -12951,10 +13461,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -13106,10 +13622,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -13261,10 +13783,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -13416,10 +13944,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -13571,10 +14105,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -13726,10 +14266,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -13881,10 +14427,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -14036,10 +14588,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -14191,10 +14749,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -14346,10 +14910,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -14500,10 +15070,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -14657,10 +15233,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -14812,10 +15394,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -14967,10 +15555,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -15122,10 +15716,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -15277,10 +15877,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -15432,10 +16038,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -15587,10 +16199,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -15742,10 +16360,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -15897,10 +16521,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -16052,10 +16682,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -16207,10 +16843,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -16362,10 +17004,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -16517,10 +17165,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -16672,10 +17326,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -16827,10 +17487,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -16982,10 +17648,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -17137,10 +17809,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -17292,10 +17970,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -17447,10 +18131,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -17602,10 +18292,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -17757,10 +18453,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -17912,10 +18614,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -18067,10 +18775,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -18222,10 +18936,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -18377,10 +19097,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -18532,10 +19258,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -18687,10 +19419,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -18842,10 +19580,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -18997,10 +19741,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -19152,10 +19902,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -19307,10 +20063,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -19461,10 +20223,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -19624,10 +20392,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -19785,10 +20559,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -19946,10 +20726,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -20107,10 +20893,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -20268,10 +21060,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -20429,10 +21227,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -20590,10 +21394,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -20751,10 +21561,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -20912,10 +21728,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -21073,10 +21895,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -21234,10 +22062,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -21395,10 +22229,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -21556,10 +22396,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -21717,10 +22563,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -21878,10 +22730,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -22039,10 +22897,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -22200,10 +23064,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -22361,10 +23231,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -22522,10 +23398,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -22683,10 +23565,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -22844,10 +23732,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -23005,10 +23899,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -23166,10 +24066,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -23327,10 +24233,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -23488,10 +24400,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -23649,10 +24567,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -23810,10 +24734,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -23971,10 +24901,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -24132,10 +25068,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -24293,10 +25235,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -24454,10 +25402,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -24614,10 +25568,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -24761,10 +25721,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -24906,10 +25872,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -25051,10 +26023,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -25196,10 +26174,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -25341,10 +26325,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -25486,10 +26476,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -25631,10 +26627,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -25776,10 +26778,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -25921,10 +26929,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -26066,10 +27080,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -26211,10 +27231,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -26356,10 +27382,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -26501,10 +27533,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -26646,10 +27684,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -26791,10 +27835,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -26936,10 +27986,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -27081,10 +28137,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -27226,10 +28288,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -27371,10 +28439,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -27516,10 +28590,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -27661,10 +28741,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -27806,10 +28892,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -27951,10 +29043,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -28096,10 +29194,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -28241,10 +29345,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -28386,10 +29496,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -28531,10 +29647,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -28676,10 +29798,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -28821,10 +29949,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -28966,10 +30100,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -29111,10 +30251,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -29255,10 +30401,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -29420,10 +30572,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -29584,10 +30742,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -29748,10 +30912,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -29912,10 +31082,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -30076,10 +31252,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -30240,10 +31422,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -30404,10 +31592,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -30568,10 +31762,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -30732,10 +31932,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -30896,10 +32102,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -31060,10 +32272,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -31224,10 +32442,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -31388,10 +32612,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -31552,10 +32782,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -31716,10 +32952,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -31880,10 +33122,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -32044,10 +33292,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -32208,10 +33462,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -32372,10 +33632,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -32536,10 +33802,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -32700,10 +33972,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -32864,10 +34142,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -33028,10 +34312,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -33192,10 +34482,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -33356,10 +34652,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -33520,10 +34822,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -33684,10 +34992,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -33848,10 +35162,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -34012,10 +35332,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -34176,10 +35502,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -34340,10 +35672,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -34503,10 +35841,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -34664,10 +36008,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -34821,10 +36171,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -34978,10 +36334,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -35135,10 +36497,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -35292,10 +36660,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -35449,10 +36823,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -35606,10 +36986,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -35763,10 +37149,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -35920,10 +37312,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -36077,10 +37475,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -36234,10 +37638,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -36391,10 +37801,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -36548,10 +37964,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -36705,10 +38127,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -36862,10 +38290,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -37019,10 +38453,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -37176,10 +38616,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -37333,10 +38779,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -37490,10 +38942,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -37647,10 +39105,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -37804,10 +39268,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -37961,10 +39431,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -38118,10 +39594,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -38275,10 +39757,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -38432,10 +39920,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -38589,10 +40083,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -38746,10 +40246,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -38903,10 +40409,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -39060,10 +40572,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -39217,10 +40735,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -39374,10 +40898,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -39530,10 +41060,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -39686,10 +41222,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -39840,10 +41382,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -39994,10 +41542,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -40148,10 +41702,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -40302,10 +41862,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -40456,10 +42022,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -40610,10 +42182,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -40764,10 +42342,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -40918,10 +42502,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -41072,10 +42662,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -41226,10 +42822,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -41380,10 +42982,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -41534,10 +43142,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -41688,10 +43302,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -41842,10 +43462,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -41996,10 +43622,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -42150,10 +43782,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -42304,10 +43942,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -42458,10 +44102,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -42612,10 +44262,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -42766,10 +44422,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -42920,10 +44582,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -43074,10 +44742,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -43228,10 +44902,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -43382,10 +45062,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -43536,10 +45222,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -43690,10 +45382,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -43844,10 +45542,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -43998,10 +45702,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -44152,10 +45862,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -44306,10 +46022,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -44459,10 +46181,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -44610,10 +46338,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -44758,10 +46492,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -44906,10 +46646,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -45054,10 +46800,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -45202,10 +46954,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -45350,10 +47108,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -45498,10 +47262,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -45646,10 +47416,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -45794,10 +47570,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -45942,10 +47724,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -46090,10 +47878,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -46238,10 +48032,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -46386,10 +48186,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -46534,10 +48340,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -46682,10 +48494,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -46830,10 +48648,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -46978,10 +48802,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -47126,10 +48956,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -47274,10 +49110,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -47422,10 +49264,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -47570,10 +49418,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -47718,10 +49572,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -47866,10 +49726,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -48014,10 +49880,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -48162,10 +50034,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -48310,10 +50188,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -48458,10 +50342,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -48606,10 +50496,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -48754,10 +50650,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -48902,10 +50804,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -49050,10 +50958,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
@@ -49197,10 +51111,16 @@
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
                                         <ogc:Literal>FL</ogc:Literal>
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                     </ogc:Function>
                                     <ogc:Function name="Concatenate">
-                                        <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        <ogc:Function name="numberFormat">
+                                            <ogc:Literal>##</ogc:Literal>
+                                            <ogc:PropertyName>height_lower</ogc:PropertyName>
+                                        </ogc:Function>
                                         <ogc:PropertyName>height_lower_unit</ogc:PropertyName>
                                         <ogc:Function name="Recode">
                                             <ogc:PropertyName>height_lower_class</ogc:PropertyName>
