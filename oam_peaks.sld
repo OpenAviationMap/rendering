@@ -44,13 +44,25 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
                         <sld:Label>
-                            <ogc:Function name="numberFormat">
-                                <ogc:Literal>##</ogc:Literal>
-                                <ogc:Mul>
+                            <ogc:Function name="if_then_else">
+                                <ogc:Function name="isLike">
                                     <ogc:PropertyName>ele</ogc:PropertyName>
-                                    <ogc:Literal>3.28</ogc:Literal>
-                                </ogc:Mul>
-                            </ogc:Function>'
+                                    <ogc:Literal>\d+</ogc:Literal>
+                                </ogc:Function>
+                                <!-- if the elevation is just numbers, print it -->
+                                <ogc:Function name="strConcat">
+                                    <ogc:Function name="numberFormat">
+                                        <ogc:Literal>##</ogc:Literal>
+                                        <ogc:Mul>
+                                            <ogc:PropertyName>ele</ogc:PropertyName>
+                                            <ogc:Literal>3.28</ogc:Literal>
+                                        </ogc:Mul>
+                                    </ogc:Function>
+                                    <ogc:Literal>'</ogc:Literal>
+                                </ogc:Function>
+                                <!-- otherwise, don't print anything -->
+                                <ogc:Literal/>
+                            </ogc:Function>
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
