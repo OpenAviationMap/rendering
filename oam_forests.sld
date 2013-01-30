@@ -25,9 +25,9 @@
                             </ogc:PropertyIsEqualTo>
                         </ogc:Or>
                     </ogc:Filter>
-                    <sld:PolygonSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
+                    <sld:PolygonSymbolizer>
                         <sld:Fill>
-                            <sld:CssParameter name="fill">#E5EBC2</sld:CssParameter>
+                            <sld:CssParameter name="fill">#E8EBD5</sld:CssParameter>
                         </sld:Fill>
                     </sld:PolygonSymbolizer>
                 </sld:Rule>

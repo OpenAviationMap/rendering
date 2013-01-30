@@ -32,7 +32,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -41,7 +41,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -52,18 +52,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -87,7 +87,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -96,7 +96,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -107,18 +107,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -142,7 +142,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -151,7 +151,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -162,18 +162,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -197,7 +197,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -206,7 +206,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -217,18 +217,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -252,7 +252,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -261,7 +261,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -272,18 +272,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -307,7 +307,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -316,7 +316,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -327,18 +327,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -362,7 +362,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -371,7 +371,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -382,18 +382,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -417,7 +417,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -426,7 +426,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -437,18 +437,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -472,7 +472,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -481,7 +481,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -492,18 +492,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -527,7 +527,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -536,7 +536,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -547,18 +547,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -582,7 +582,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -591,7 +591,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -602,18 +602,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -637,7 +637,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -646,7 +646,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -657,18 +657,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -692,7 +692,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -701,7 +701,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -712,18 +712,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -747,7 +747,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -756,7 +756,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -767,18 +767,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -802,7 +802,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -811,7 +811,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -822,18 +822,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -857,7 +857,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -866,7 +866,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -877,18 +877,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -912,7 +912,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -921,7 +921,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -932,18 +932,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -967,7 +967,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -976,7 +976,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -987,18 +987,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1022,7 +1022,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -1031,7 +1031,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1042,18 +1042,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1077,7 +1077,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -1086,7 +1086,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1097,18 +1097,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1132,7 +1132,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -1141,7 +1141,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1152,18 +1152,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1187,7 +1187,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -1196,7 +1196,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1207,18 +1207,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1242,7 +1242,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -1251,7 +1251,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1262,18 +1262,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1297,7 +1297,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -1306,7 +1306,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1317,18 +1317,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1352,7 +1352,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -1361,7 +1361,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1372,18 +1372,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1407,7 +1407,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -1416,7 +1416,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1427,18 +1427,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1462,7 +1462,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -1471,7 +1471,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1482,18 +1482,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1517,7 +1517,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -1526,7 +1526,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1537,18 +1537,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1572,7 +1572,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -1581,7 +1581,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1592,18 +1592,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1627,7 +1627,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -1636,7 +1636,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1647,18 +1647,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1682,7 +1682,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -1691,7 +1691,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1702,18 +1702,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1736,7 +1736,7 @@
                                 <sld:OnlineResource xlink:href="navaid_designated.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>11</sld:Size>
+                            <sld:Size>14.173228346456693</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -1745,7 +1745,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1756,18 +1756,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -1805,7 +1805,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -1816,13 +1816,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -1832,14 +1832,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1874,7 +1874,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -1885,13 +1885,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -1901,14 +1901,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1943,7 +1943,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -1954,13 +1954,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -1970,14 +1970,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2012,7 +2012,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2023,13 +2023,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -2039,14 +2039,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2081,7 +2081,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2092,13 +2092,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -2108,14 +2108,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2150,7 +2150,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2161,13 +2161,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -2177,14 +2177,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2219,7 +2219,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2230,13 +2230,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -2246,14 +2246,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2288,7 +2288,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2299,13 +2299,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -2315,14 +2315,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2357,7 +2357,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2368,13 +2368,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -2384,14 +2384,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2426,7 +2426,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2437,13 +2437,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -2453,14 +2453,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2495,7 +2495,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2506,13 +2506,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -2522,14 +2522,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2564,7 +2564,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2575,13 +2575,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -2591,14 +2591,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2633,7 +2633,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2644,13 +2644,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -2660,14 +2660,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2702,7 +2702,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2713,13 +2713,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -2729,14 +2729,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2771,7 +2771,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2782,13 +2782,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -2798,14 +2798,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2840,7 +2840,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2851,13 +2851,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -2867,14 +2867,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2909,7 +2909,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2920,13 +2920,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -2936,14 +2936,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2978,7 +2978,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -2989,13 +2989,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3005,14 +3005,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3047,7 +3047,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -3058,13 +3058,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3074,14 +3074,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3116,7 +3116,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -3127,13 +3127,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3143,14 +3143,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3185,7 +3185,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -3196,13 +3196,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3212,14 +3212,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3254,7 +3254,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -3265,13 +3265,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3281,14 +3281,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3323,7 +3323,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -3334,13 +3334,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3350,14 +3350,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3392,7 +3392,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -3403,13 +3403,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3419,14 +3419,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3461,7 +3461,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -3472,13 +3472,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3488,14 +3488,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3530,7 +3530,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -3541,13 +3541,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3557,14 +3557,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3599,7 +3599,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -3610,13 +3610,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3626,14 +3626,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3668,7 +3668,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -3679,13 +3679,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3695,14 +3695,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3737,7 +3737,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -3748,13 +3748,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3764,14 +3764,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3806,7 +3806,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -3817,13 +3817,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3833,14 +3833,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3875,7 +3875,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -3886,13 +3886,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3902,14 +3902,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3943,7 +3943,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -3954,13 +3954,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>-11</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>-14.173228346456693</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -3970,14 +3970,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -4004,7 +4004,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -4013,7 +4013,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -4027,7 +4027,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -4038,13 +4038,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -4054,14 +4054,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4085,7 +4085,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -4094,7 +4094,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -4108,7 +4108,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -4119,13 +4119,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -4135,14 +4135,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4166,7 +4166,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -4175,7 +4175,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -4189,7 +4189,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -4200,13 +4200,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -4216,14 +4216,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4247,7 +4247,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -4256,7 +4256,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -4270,7 +4270,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -4281,13 +4281,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -4297,14 +4297,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4328,7 +4328,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -4337,7 +4337,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -4351,7 +4351,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -4362,13 +4362,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -4378,14 +4378,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4409,7 +4409,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -4418,7 +4418,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -4432,7 +4432,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -4443,13 +4443,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -4459,14 +4459,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4490,7 +4490,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -4499,7 +4499,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -4513,7 +4513,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -4524,13 +4524,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -4540,14 +4540,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4571,7 +4571,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -4580,7 +4580,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -4594,7 +4594,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -4605,13 +4605,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -4621,14 +4621,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4652,7 +4652,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -4661,7 +4661,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -4675,7 +4675,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -4686,13 +4686,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -4702,14 +4702,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4733,7 +4733,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -4742,7 +4742,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -4756,7 +4756,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -4767,13 +4767,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -4783,14 +4783,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4814,7 +4814,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -4823,7 +4823,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -4837,7 +4837,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -4848,13 +4848,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -4864,14 +4864,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4895,7 +4895,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -4904,7 +4904,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -4918,7 +4918,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -4929,13 +4929,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -4945,14 +4945,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4976,7 +4976,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -4985,7 +4985,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -4999,7 +4999,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -5010,13 +5010,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -5026,14 +5026,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5057,7 +5057,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -5066,7 +5066,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -5080,7 +5080,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -5091,13 +5091,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -5107,14 +5107,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5138,7 +5138,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -5147,7 +5147,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -5161,7 +5161,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -5172,13 +5172,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -5188,14 +5188,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5219,7 +5219,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -5228,7 +5228,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -5242,7 +5242,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -5253,13 +5253,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -5269,14 +5269,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5300,7 +5300,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -5309,7 +5309,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -5323,7 +5323,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -5334,13 +5334,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -5350,14 +5350,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5381,7 +5381,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -5390,7 +5390,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -5404,7 +5404,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -5415,13 +5415,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -5431,14 +5431,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5462,7 +5462,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -5471,7 +5471,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -5485,7 +5485,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -5496,13 +5496,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -5512,14 +5512,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5543,7 +5543,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -5552,7 +5552,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -5566,7 +5566,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -5577,13 +5577,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -5593,14 +5593,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5624,7 +5624,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -5633,7 +5633,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -5647,7 +5647,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -5658,13 +5658,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -5674,14 +5674,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5705,7 +5705,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -5714,7 +5714,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -5728,7 +5728,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -5739,13 +5739,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -5755,14 +5755,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5786,7 +5786,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -5795,7 +5795,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -5809,7 +5809,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -5820,13 +5820,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -5836,14 +5836,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5867,7 +5867,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -5876,7 +5876,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -5890,7 +5890,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -5901,13 +5901,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -5917,14 +5917,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5948,7 +5948,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -5957,7 +5957,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -5971,7 +5971,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -5982,13 +5982,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -5998,14 +5998,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6029,7 +6029,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -6038,7 +6038,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -6052,7 +6052,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -6063,13 +6063,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -6079,14 +6079,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6110,7 +6110,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -6119,7 +6119,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -6133,7 +6133,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -6144,13 +6144,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -6160,14 +6160,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6191,7 +6191,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -6200,7 +6200,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -6214,7 +6214,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -6225,13 +6225,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -6241,14 +6241,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6272,7 +6272,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -6281,7 +6281,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -6295,7 +6295,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -6306,13 +6306,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -6322,14 +6322,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6353,7 +6353,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -6362,7 +6362,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -6376,7 +6376,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -6387,13 +6387,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -6403,14 +6403,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6434,7 +6434,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -6443,7 +6443,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -6457,7 +6457,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -6468,13 +6468,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -6484,14 +6484,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6514,7 +6514,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VORDME.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:PointSymbolizer>
@@ -6523,7 +6523,7 @@
                                 <sld:OnlineResource xlink:href="navaid_compass_rose.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>55</sld:Size>
+                            <sld:Size>70.86614173228347</sld:Size>
                             <sld:Rotation>
                                 <ogc:PropertyName>navaid_declination</ogc:PropertyName>
                             </sld:Rotation>
@@ -6537,7 +6537,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -6548,13 +6548,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -6564,14 +6564,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -6598,7 +6598,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -6609,7 +6609,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -6620,13 +6620,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -6636,14 +6636,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6667,7 +6667,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -6678,7 +6678,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -6689,13 +6689,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -6705,14 +6705,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6736,7 +6736,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -6747,7 +6747,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -6758,13 +6758,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -6774,14 +6774,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6805,7 +6805,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -6816,7 +6816,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -6827,13 +6827,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -6843,14 +6843,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6874,7 +6874,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -6885,7 +6885,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -6896,13 +6896,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -6912,14 +6912,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6943,7 +6943,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -6954,7 +6954,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -6965,13 +6965,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -6981,14 +6981,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7012,7 +7012,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7023,7 +7023,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -7034,13 +7034,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -7050,14 +7050,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7081,7 +7081,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7092,7 +7092,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -7103,13 +7103,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -7119,14 +7119,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7150,7 +7150,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7161,7 +7161,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -7172,13 +7172,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -7188,14 +7188,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7219,7 +7219,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7230,7 +7230,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -7241,13 +7241,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -7257,14 +7257,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7288,7 +7288,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7299,7 +7299,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -7310,13 +7310,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -7326,14 +7326,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7357,7 +7357,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7368,7 +7368,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -7379,13 +7379,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -7395,14 +7395,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7426,7 +7426,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7437,7 +7437,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -7448,13 +7448,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -7464,14 +7464,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7495,7 +7495,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7506,7 +7506,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -7517,13 +7517,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -7533,14 +7533,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7564,7 +7564,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7575,7 +7575,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -7586,13 +7586,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -7602,14 +7602,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7633,7 +7633,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7644,7 +7644,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -7655,13 +7655,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -7671,14 +7671,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7702,7 +7702,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7713,7 +7713,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -7724,13 +7724,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -7740,14 +7740,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7771,7 +7771,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7782,7 +7782,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -7793,13 +7793,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -7809,14 +7809,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7840,7 +7840,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7851,7 +7851,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -7862,13 +7862,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -7878,14 +7878,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7909,7 +7909,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7920,7 +7920,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -7931,13 +7931,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -7947,14 +7947,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7978,7 +7978,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -7989,7 +7989,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -8000,13 +8000,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -8016,14 +8016,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8047,7 +8047,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -8058,7 +8058,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -8069,13 +8069,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -8085,14 +8085,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8116,7 +8116,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -8127,7 +8127,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -8138,13 +8138,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -8154,14 +8154,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8185,7 +8185,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -8196,7 +8196,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -8207,13 +8207,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -8223,14 +8223,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8254,7 +8254,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -8265,7 +8265,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -8276,13 +8276,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -8292,14 +8292,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8323,7 +8323,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -8334,7 +8334,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -8345,13 +8345,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -8361,14 +8361,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8392,7 +8392,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -8403,7 +8403,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -8414,13 +8414,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -8430,14 +8430,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8461,7 +8461,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -8472,7 +8472,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -8483,13 +8483,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -8499,14 +8499,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8530,7 +8530,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -8541,7 +8541,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -8552,13 +8552,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -8568,14 +8568,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8599,7 +8599,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -8610,7 +8610,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -8621,13 +8621,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -8637,14 +8637,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8668,7 +8668,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -8679,7 +8679,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -8690,13 +8690,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -8706,14 +8706,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8736,7 +8736,7 @@
                                 <sld:OnlineResource xlink:href="navaid_VOR.svg" xlink:type="simple"/>
                                 <sld:Format>image/svg+xml</sld:Format>
                             </sld:ExternalGraphic>
-                            <sld:Size>8</sld:Size>
+                            <sld:Size>10.62992125984252</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -8747,7 +8747,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">8</sld:CssParameter>
+                            <sld:CssParameter name="font-size">10.62992125984252</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                         </sld:Font>
@@ -8758,13 +8758,13 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>33</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>42.51968503937008</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#000000</CssParameter>
@@ -8774,14 +8774,14 @@
                                 <sld:WellKnownName>square</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.35433070866141736</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6</sld:Size>
+                            <sld:Size>7.086614173228346</sld:Size>
                         </sld:Graphic>
                         <sld:VendorOption name="graphic-resize">stretch</sld:VendorOption>
-                        <sld:VendorOption name="graphic-margin">3</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="graphic-margin">3.543307086614173</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -8802,10 +8802,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">1058567</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">1361015.0990257154</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>10585673</sld:Size>
+                            <sld:Size>1.3610150990257153E7</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -8823,7 +8823,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -8834,18 +8834,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8863,10 +8863,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">705712</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">907343.3993504768</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>7057115</sld:Size>
+                            <sld:Size>9073433.993504768</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -8884,7 +8884,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -8895,18 +8895,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8924,10 +8924,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">352856</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">453671.6996752384</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>3528558</sld:Size>
+                            <sld:Size>4536716.996752384</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -8945,7 +8945,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -8956,18 +8956,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8985,10 +8985,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">176428</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">226835.8498376192</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>1764279</sld:Size>
+                            <sld:Size>2268358.498376192</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9006,7 +9006,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9017,18 +9017,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9046,10 +9046,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">88214</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">113417.9249188096</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>882139</sld:Size>
+                            <sld:Size>1134179.249188096</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9067,7 +9067,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9078,18 +9078,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9107,10 +9107,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">44107</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">56708.9624594048</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>441070</sld:Size>
+                            <sld:Size>567089.624594048</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9128,7 +9128,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9139,18 +9139,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9168,10 +9168,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">22053</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">28354.4812297024</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>220535</sld:Size>
+                            <sld:Size>283544.812297024</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9189,7 +9189,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9200,18 +9200,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9229,10 +9229,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">11027</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">14177.2406148512</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>110267</sld:Size>
+                            <sld:Size>141772.406148512</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9250,7 +9250,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9261,18 +9261,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9290,10 +9290,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">5513</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">7088.6203074256</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>55134</sld:Size>
+                            <sld:Size>70886.203074256</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9311,7 +9311,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9322,18 +9322,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9351,10 +9351,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">2757</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">3544.3101537128</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>27567</sld:Size>
+                            <sld:Size>35443.101537128</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9372,7 +9372,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9383,18 +9383,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9412,10 +9412,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">1378</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">1772.1550768564</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>13783</sld:Size>
+                            <sld:Size>17721.550768564</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9433,7 +9433,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9444,18 +9444,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9473,10 +9473,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">689</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">886.0775384282</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>6892</sld:Size>
+                            <sld:Size>8860.775384282</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9494,7 +9494,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9505,18 +9505,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9534,10 +9534,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">345</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">443.0387692141</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>3446</sld:Size>
+                            <sld:Size>4430.387692141</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9555,7 +9555,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9566,18 +9566,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9595,10 +9595,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">172</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">221.51938460705</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>1723</sld:Size>
+                            <sld:Size>2215.1938460705</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9616,7 +9616,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9627,18 +9627,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9656,10 +9656,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">86</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">110.759692303525</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>861</sld:Size>
+                            <sld:Size>1107.59692303525</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9677,7 +9677,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9688,18 +9688,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9717,10 +9717,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">43</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">55.3798461517625</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>431</sld:Size>
+                            <sld:Size>553.798461517625</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9738,7 +9738,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9749,18 +9749,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9778,10 +9778,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">22</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">27.68992307588125</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>215</sld:Size>
+                            <sld:Size>276.8992307588125</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9799,7 +9799,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9810,18 +9810,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9839,10 +9839,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">13.844961537940625</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>108</sld:Size>
+                            <sld:Size>138.44961537940625</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9860,7 +9860,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9871,18 +9871,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9900,10 +9900,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">5</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">6.9224807689703125</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>54</sld:Size>
+                            <sld:Size>69.22480768970313</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9921,7 +9921,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9932,18 +9932,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9961,10 +9961,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">3</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">3.4612403844851563</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>27</sld:Size>
+                            <sld:Size>34.61240384485156</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -9982,7 +9982,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9993,18 +9993,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10022,10 +10022,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">1.7306201922425781</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>13</sld:Size>
+                            <sld:Size>17.30620192242578</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -10043,7 +10043,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10054,18 +10054,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10083,10 +10083,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.8653100961212891</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>7</sld:Size>
+                            <sld:Size>8.65310096121289</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -10104,7 +10104,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10115,18 +10115,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10144,10 +10144,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.43265504806064453</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>3</sld:Size>
+                            <sld:Size>4.326550480606445</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -10165,7 +10165,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10176,18 +10176,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10205,10 +10205,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.21632752403032227</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>2</sld:Size>
+                            <sld:Size>2.1632752403032227</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -10226,7 +10226,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10237,18 +10237,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10266,10 +10266,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.10816376201516113</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>1</sld:Size>
+                            <sld:Size>1.0816376201516114</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -10287,7 +10287,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10298,18 +10298,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10327,10 +10327,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.054081881007580566</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>0</sld:Size>
+                            <sld:Size>0.5408188100758057</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -10348,7 +10348,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10359,18 +10359,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10388,10 +10388,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.027040940503790283</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>0</sld:Size>
+                            <sld:Size>0.27040940503790284</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -10409,7 +10409,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10420,18 +10420,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10449,10 +10449,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.013520470251895142</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>0</sld:Size>
+                            <sld:Size>0.13520470251895142</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -10470,7 +10470,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10481,18 +10481,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10510,10 +10510,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.006760235125947571</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>0</sld:Size>
+                            <sld:Size>0.06760235125947571</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -10531,7 +10531,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10542,18 +10542,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10571,10 +10571,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.0033801175629737854</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>0</sld:Size>
+                            <sld:Size>0.033801175629737855</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -10592,7 +10592,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10603,18 +10603,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10632,10 +10632,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.0016900587814868927</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>0</sld:Size>
+                            <sld:Size>0.016900587814868927</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -10653,7 +10653,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10664,18 +10664,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10692,10 +10692,10 @@
                                 <sld:WellKnownName>circle</sld:WellKnownName>
                                 <sld:Stroke>
                                     <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                    <sld:CssParameter name="stroke-width">0.0012675440861151697</sld:CssParameter>
                                 </sld:Stroke>
                             </sld:Mark>
-                            <sld:Size>0</sld:Size>
+                            <sld:Size>0.012675440861151696</sld:Size>
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
@@ -10713,7 +10713,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10724,18 +10724,18 @@
                                     <sld:AnchorPointY>0.5</sld:AnchorPointY>
                                 </sld:AnchorPoint>
                                 <sld:Displacement>
-                                    <sld:DisplacementX>6</sld:DisplacementX>
-                                    <sld:DisplacementY>3</sld:DisplacementY>
+                                    <sld:DisplacementX>7.086614173228346</sld:DisplacementX>
+                                    <sld:DisplacementY>3.543307086614173</sld:DisplacementY>
                                 </sld:Displacement>
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>0</sld:Radius>
+                            <sld:Radius>0.35433070866141736</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>

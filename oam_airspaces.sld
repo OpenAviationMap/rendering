@@ -50,7 +50,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0022833199477668834</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -139,7 +139,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -152,12 +152,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -201,7 +201,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.003424979921650325</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -290,7 +290,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -303,12 +303,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -352,7 +352,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.00684995984330065</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -441,7 +441,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -454,12 +454,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -503,7 +503,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0136999196866013</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -592,7 +592,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -605,12 +605,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -654,7 +654,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0273998393732026</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -743,7 +743,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -756,12 +756,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -805,7 +805,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0547996787464052</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -894,7 +894,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -907,12 +907,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -956,7 +956,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.1095993574928104</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -1045,7 +1045,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1058,12 +1058,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -1107,7 +1107,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.2191987149856208</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -1196,7 +1196,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1209,12 +1209,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -1258,7 +1258,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.4383974299712416</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -1347,7 +1347,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1360,12 +1360,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -1409,7 +1409,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1</ogc:Literal>
+                                    <ogc:Literal>-0.8767948599424832</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -1498,7 +1498,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1511,12 +1511,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -1560,7 +1560,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-2</ogc:Literal>
+                                    <ogc:Literal>-1.7535897198849664</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -1649,7 +1649,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1662,12 +1662,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -1711,7 +1711,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-4</ogc:Literal>
+                                    <ogc:Literal>-3.5071794397699327</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -1800,7 +1800,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1813,12 +1813,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -1862,7 +1862,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-7</ogc:Literal>
+                                    <ogc:Literal>-7.0143588795398655</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -1951,7 +1951,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -1964,12 +1964,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -2013,7 +2013,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-14</ogc:Literal>
+                                    <ogc:Literal>-14.028717759079731</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -2102,7 +2102,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -2115,12 +2115,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -2164,7 +2164,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-28</ogc:Literal>
+                                    <ogc:Literal>-28.057435518159462</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -2253,7 +2253,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -2266,12 +2266,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -2315,7 +2315,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-56</ogc:Literal>
+                                    <ogc:Literal>-56.114871036318924</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -2404,7 +2404,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -2417,12 +2417,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -2466,7 +2466,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-112</ogc:Literal>
+                                    <ogc:Literal>-112.22974207263785</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -2555,7 +2555,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -2568,12 +2568,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -2617,7 +2617,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-224</ogc:Literal>
+                                    <ogc:Literal>-224.4594841452757</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -2706,7 +2706,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -2719,12 +2719,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -2768,7 +2768,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-449</ogc:Literal>
+                                    <ogc:Literal>-448.9189682905514</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -2857,7 +2857,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -2870,12 +2870,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -2919,7 +2919,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-898</ogc:Literal>
+                                    <ogc:Literal>-897.8379365811028</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -3008,7 +3008,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -3021,12 +3021,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -3070,7 +3070,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1796</ogc:Literal>
+                                    <ogc:Literal>-1795.6758731622056</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -3159,7 +3159,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -3172,12 +3172,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -3221,7 +3221,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-3591</ogc:Literal>
+                                    <ogc:Literal>-3591.351746324411</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -3310,7 +3310,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -3323,12 +3323,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -3372,7 +3372,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-7183</ogc:Literal>
+                                    <ogc:Literal>-7182.703492648822</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -3461,7 +3461,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -3474,12 +3474,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -3523,7 +3523,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-14365</ogc:Literal>
+                                    <ogc:Literal>-14365.406985297644</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -3612,7 +3612,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -3625,12 +3625,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -3674,7 +3674,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-28731</ogc:Literal>
+                                    <ogc:Literal>-28730.81397059529</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -3763,7 +3763,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -3776,12 +3776,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -3825,7 +3825,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-57462</ogc:Literal>
+                                    <ogc:Literal>-57461.62794119058</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -3914,7 +3914,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -3927,12 +3927,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -3976,7 +3976,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-114923</ogc:Literal>
+                                    <ogc:Literal>-114923.25588238116</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -4065,7 +4065,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -4078,12 +4078,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -4127,7 +4127,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-229847</ogc:Literal>
+                                    <ogc:Literal>-229846.5117647623</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -4216,7 +4216,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -4229,12 +4229,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -4278,7 +4278,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-459693</ogc:Literal>
+                                    <ogc:Literal>-459693.0235295246</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -4367,7 +4367,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -4380,12 +4380,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -4429,7 +4429,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-919386</ogc:Literal>
+                                    <ogc:Literal>-919386.0470590492</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -4518,7 +4518,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -4531,12 +4531,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -4580,7 +4580,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1838772</ogc:Literal>
+                                    <ogc:Literal>-1838772.0941180985</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -4669,7 +4669,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -4682,12 +4682,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -4730,7 +4730,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-2451696</ogc:Literal>
+                                    <ogc:Literal>-2451696.125490798</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -4819,7 +4819,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -4832,12 +4832,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -4874,7 +4874,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -4883,7 +4883,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>0</ogc:Literal>
+                                     <ogc:Literal>-0.0022833199477668834</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -4894,10 +4894,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -4982,7 +4982,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -4995,12 +4995,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -5035,7 +5035,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -5044,7 +5044,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>0</ogc:Literal>
+                                     <ogc:Literal>-0.003424979921650325</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -5055,10 +5055,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -5143,7 +5143,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -5156,12 +5156,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -5196,7 +5196,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -5205,7 +5205,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>0</ogc:Literal>
+                                     <ogc:Literal>-0.00684995984330065</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -5216,10 +5216,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -5304,7 +5304,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -5317,12 +5317,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -5357,7 +5357,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -5366,7 +5366,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>0</ogc:Literal>
+                                     <ogc:Literal>-0.0136999196866013</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -5377,10 +5377,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -5465,7 +5465,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -5478,12 +5478,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -5518,7 +5518,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -5527,7 +5527,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>0</ogc:Literal>
+                                     <ogc:Literal>-0.0273998393732026</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -5538,10 +5538,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -5626,7 +5626,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -5639,12 +5639,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -5679,7 +5679,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -5688,7 +5688,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>0</ogc:Literal>
+                                     <ogc:Literal>-0.0547996787464052</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -5699,10 +5699,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -5787,7 +5787,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -5800,12 +5800,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -5840,7 +5840,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -5849,7 +5849,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>0</ogc:Literal>
+                                     <ogc:Literal>-0.1095993574928104</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -5860,10 +5860,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -5948,7 +5948,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -5961,12 +5961,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -6001,7 +6001,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -6010,7 +6010,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>0</ogc:Literal>
+                                     <ogc:Literal>-0.2191987149856208</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -6021,10 +6021,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -6109,7 +6109,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -6122,12 +6122,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -6162,7 +6162,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -6171,7 +6171,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>0</ogc:Literal>
+                                     <ogc:Literal>-0.4383974299712416</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -6182,10 +6182,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -6270,7 +6270,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -6283,12 +6283,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -6323,7 +6323,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -6332,7 +6332,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-1</ogc:Literal>
+                                     <ogc:Literal>-0.8767948599424832</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -6343,10 +6343,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -6431,7 +6431,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -6444,12 +6444,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -6484,7 +6484,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -6493,7 +6493,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-2</ogc:Literal>
+                                     <ogc:Literal>-1.7535897198849664</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -6504,10 +6504,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -6592,7 +6592,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -6605,12 +6605,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -6645,7 +6645,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -6654,7 +6654,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-4</ogc:Literal>
+                                     <ogc:Literal>-3.5071794397699327</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -6665,10 +6665,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -6753,7 +6753,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -6766,12 +6766,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -6806,7 +6806,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -6815,7 +6815,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-7</ogc:Literal>
+                                     <ogc:Literal>-7.0143588795398655</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -6826,10 +6826,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -6914,7 +6914,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -6927,12 +6927,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -6967,7 +6967,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -6976,7 +6976,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-14</ogc:Literal>
+                                     <ogc:Literal>-14.028717759079731</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -6987,10 +6987,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -7075,7 +7075,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -7088,12 +7088,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -7128,7 +7128,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -7137,7 +7137,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-28</ogc:Literal>
+                                     <ogc:Literal>-28.057435518159462</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -7148,10 +7148,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -7236,7 +7236,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -7249,12 +7249,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -7289,7 +7289,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -7298,7 +7298,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-56</ogc:Literal>
+                                     <ogc:Literal>-56.114871036318924</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -7309,10 +7309,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -7397,7 +7397,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -7410,12 +7410,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -7450,7 +7450,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -7459,7 +7459,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-112</ogc:Literal>
+                                     <ogc:Literal>-112.22974207263785</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -7470,10 +7470,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -7558,7 +7558,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -7571,12 +7571,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -7611,7 +7611,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -7620,7 +7620,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-224</ogc:Literal>
+                                     <ogc:Literal>-224.4594841452757</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -7631,10 +7631,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -7719,7 +7719,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -7732,12 +7732,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -7772,7 +7772,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -7781,7 +7781,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-449</ogc:Literal>
+                                     <ogc:Literal>-448.9189682905514</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -7792,10 +7792,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -7880,7 +7880,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -7893,12 +7893,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -7933,7 +7933,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -7942,7 +7942,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-898</ogc:Literal>
+                                     <ogc:Literal>-897.8379365811028</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -7953,10 +7953,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -8041,7 +8041,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -8054,12 +8054,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -8094,7 +8094,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -8103,7 +8103,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-1796</ogc:Literal>
+                                     <ogc:Literal>-1795.6758731622056</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -8114,10 +8114,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -8202,7 +8202,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -8215,12 +8215,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -8255,7 +8255,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -8264,7 +8264,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-3591</ogc:Literal>
+                                     <ogc:Literal>-3591.351746324411</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -8275,10 +8275,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -8363,7 +8363,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -8376,12 +8376,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -8416,7 +8416,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -8425,7 +8425,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-7183</ogc:Literal>
+                                     <ogc:Literal>-7182.703492648822</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -8436,10 +8436,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -8524,7 +8524,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -8537,12 +8537,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -8577,7 +8577,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -8586,7 +8586,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-14365</ogc:Literal>
+                                     <ogc:Literal>-14365.406985297644</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -8597,10 +8597,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -8685,7 +8685,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -8698,12 +8698,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -8738,7 +8738,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -8747,7 +8747,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-28731</ogc:Literal>
+                                     <ogc:Literal>-28730.81397059529</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -8758,10 +8758,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -8846,7 +8846,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -8859,12 +8859,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -8899,7 +8899,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -8908,7 +8908,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-57462</ogc:Literal>
+                                     <ogc:Literal>-57461.62794119058</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -8919,10 +8919,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -9007,7 +9007,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9020,12 +9020,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -9060,7 +9060,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -9069,7 +9069,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-114923</ogc:Literal>
+                                     <ogc:Literal>-114923.25588238116</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -9080,10 +9080,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -9168,7 +9168,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9181,12 +9181,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -9221,7 +9221,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -9230,7 +9230,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-229847</ogc:Literal>
+                                     <ogc:Literal>-229846.5117647623</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -9241,10 +9241,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -9329,7 +9329,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9342,12 +9342,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -9382,7 +9382,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -9391,7 +9391,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-459693</ogc:Literal>
+                                     <ogc:Literal>-459693.0235295246</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -9402,10 +9402,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -9490,7 +9490,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9503,12 +9503,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -9543,7 +9543,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -9552,7 +9552,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-919386</ogc:Literal>
+                                     <ogc:Literal>-919386.0470590492</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -9563,10 +9563,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -9651,7 +9651,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9664,12 +9664,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -9704,7 +9704,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -9713,7 +9713,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-1838772</ogc:Literal>
+                                     <ogc:Literal>-1838772.0941180985</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -9724,10 +9724,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -9812,7 +9812,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9825,12 +9825,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -9864,7 +9864,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -9873,7 +9873,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                     <ogc:Literal>-2451696</ogc:Literal>
+                                     <ogc:Literal>-2451696.125490798</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -9884,10 +9884,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -9972,7 +9972,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -9985,12 +9985,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -10027,7 +10027,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -10036,7 +10036,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0022833199477668834</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -10047,10 +10047,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -10135,7 +10135,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10148,12 +10148,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -10188,7 +10188,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -10197,7 +10197,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.003424979921650325</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -10208,10 +10208,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -10296,7 +10296,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10309,12 +10309,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -10349,7 +10349,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -10358,7 +10358,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.00684995984330065</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -10369,10 +10369,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -10457,7 +10457,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10470,12 +10470,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -10510,7 +10510,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -10519,7 +10519,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0136999196866013</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -10530,10 +10530,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -10618,7 +10618,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10631,12 +10631,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -10671,7 +10671,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -10680,7 +10680,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0273998393732026</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -10691,10 +10691,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -10779,7 +10779,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10792,12 +10792,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -10832,7 +10832,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -10841,7 +10841,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0547996787464052</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -10852,10 +10852,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -10940,7 +10940,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -10953,12 +10953,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -10993,7 +10993,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -11002,7 +11002,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.1095993574928104</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -11013,10 +11013,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -11101,7 +11101,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -11114,12 +11114,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -11154,7 +11154,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -11163,7 +11163,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.2191987149856208</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -11174,10 +11174,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -11262,7 +11262,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -11275,12 +11275,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -11315,7 +11315,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -11324,7 +11324,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.4383974299712416</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -11335,10 +11335,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -11423,7 +11423,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -11436,12 +11436,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -11476,7 +11476,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -11485,7 +11485,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1</ogc:Literal>
+                                    <ogc:Literal>-0.8767948599424832</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -11496,10 +11496,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -11584,7 +11584,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -11597,12 +11597,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -11637,7 +11637,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -11646,7 +11646,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-2</ogc:Literal>
+                                    <ogc:Literal>-1.7535897198849664</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -11657,10 +11657,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -11745,7 +11745,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -11758,12 +11758,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -11798,7 +11798,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -11807,7 +11807,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-4</ogc:Literal>
+                                    <ogc:Literal>-3.5071794397699327</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -11818,10 +11818,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -11906,7 +11906,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -11919,12 +11919,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -11959,7 +11959,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -11968,7 +11968,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-7</ogc:Literal>
+                                    <ogc:Literal>-7.0143588795398655</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -11979,10 +11979,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -12067,7 +12067,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -12080,12 +12080,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -12120,7 +12120,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -12129,7 +12129,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-14</ogc:Literal>
+                                    <ogc:Literal>-14.028717759079731</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -12140,10 +12140,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -12228,7 +12228,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -12241,12 +12241,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -12281,7 +12281,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -12290,7 +12290,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-28</ogc:Literal>
+                                    <ogc:Literal>-28.057435518159462</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -12301,10 +12301,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -12389,7 +12389,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -12402,12 +12402,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -12442,7 +12442,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -12451,7 +12451,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-56</ogc:Literal>
+                                    <ogc:Literal>-56.114871036318924</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -12462,10 +12462,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -12550,7 +12550,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -12563,12 +12563,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -12603,7 +12603,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -12612,7 +12612,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-112</ogc:Literal>
+                                    <ogc:Literal>-112.22974207263785</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -12623,10 +12623,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -12711,7 +12711,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -12724,12 +12724,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -12764,7 +12764,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -12773,7 +12773,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-224</ogc:Literal>
+                                    <ogc:Literal>-224.4594841452757</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -12784,10 +12784,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -12872,7 +12872,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -12885,12 +12885,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -12925,7 +12925,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -12934,7 +12934,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-449</ogc:Literal>
+                                    <ogc:Literal>-448.9189682905514</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -12945,10 +12945,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -13033,7 +13033,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -13046,12 +13046,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -13086,7 +13086,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -13095,7 +13095,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-898</ogc:Literal>
+                                    <ogc:Literal>-897.8379365811028</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -13106,10 +13106,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -13194,7 +13194,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -13207,12 +13207,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -13247,7 +13247,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -13256,7 +13256,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1796</ogc:Literal>
+                                    <ogc:Literal>-1795.6758731622056</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -13267,10 +13267,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -13355,7 +13355,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -13368,12 +13368,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -13408,7 +13408,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -13417,7 +13417,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-3591</ogc:Literal>
+                                    <ogc:Literal>-3591.351746324411</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -13428,10 +13428,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -13516,7 +13516,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -13529,12 +13529,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -13569,7 +13569,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -13578,7 +13578,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-7183</ogc:Literal>
+                                    <ogc:Literal>-7182.703492648822</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -13589,10 +13589,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -13677,7 +13677,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -13690,12 +13690,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -13730,7 +13730,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -13739,7 +13739,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-14365</ogc:Literal>
+                                    <ogc:Literal>-14365.406985297644</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -13750,10 +13750,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -13838,7 +13838,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -13851,12 +13851,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -13891,7 +13891,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -13900,7 +13900,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-28731</ogc:Literal>
+                                    <ogc:Literal>-28730.81397059529</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -13911,10 +13911,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -13999,7 +13999,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -14012,12 +14012,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -14052,7 +14052,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -14061,7 +14061,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-57462</ogc:Literal>
+                                    <ogc:Literal>-57461.62794119058</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -14072,10 +14072,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -14160,7 +14160,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -14173,12 +14173,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -14213,7 +14213,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -14222,7 +14222,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-114923</ogc:Literal>
+                                    <ogc:Literal>-114923.25588238116</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -14233,10 +14233,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -14321,7 +14321,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -14334,12 +14334,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -14374,7 +14374,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -14383,7 +14383,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-229847</ogc:Literal>
+                                    <ogc:Literal>-229846.5117647623</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -14394,10 +14394,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -14482,7 +14482,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -14495,12 +14495,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -14535,7 +14535,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -14544,7 +14544,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-459693</ogc:Literal>
+                                    <ogc:Literal>-459693.0235295246</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -14555,10 +14555,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -14643,7 +14643,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -14656,12 +14656,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -14696,7 +14696,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -14705,7 +14705,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-919386</ogc:Literal>
+                                    <ogc:Literal>-919386.0470590492</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -14716,10 +14716,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -14804,7 +14804,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -14817,12 +14817,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -14857,7 +14857,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -14866,7 +14866,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1838772</ogc:Literal>
+                                    <ogc:Literal>-1838772.0941180985</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -14877,10 +14877,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -14965,7 +14965,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -14978,12 +14978,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -15017,7 +15017,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -15026,7 +15026,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-2451696</ogc:Literal>
+                                    <ogc:Literal>-2451696.125490798</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -15037,10 +15037,10 @@
                                         <sld:WellKnownName>shape://backslash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -15125,7 +15125,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -15138,12 +15138,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -15180,7 +15180,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -15189,7 +15189,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0022833199477668834</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -15200,10 +15200,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -15288,7 +15288,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -15301,12 +15301,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -15341,7 +15341,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -15350,7 +15350,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.003424979921650325</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -15361,10 +15361,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -15449,7 +15449,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -15462,12 +15462,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -15502,7 +15502,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -15511,7 +15511,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.00684995984330065</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -15522,10 +15522,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -15610,7 +15610,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -15623,12 +15623,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -15663,7 +15663,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -15672,7 +15672,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0136999196866013</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -15683,10 +15683,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -15771,7 +15771,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -15784,12 +15784,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -15824,7 +15824,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -15833,7 +15833,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0273998393732026</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -15844,10 +15844,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -15932,7 +15932,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -15945,12 +15945,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -15985,7 +15985,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -15994,7 +15994,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0547996787464052</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -16005,10 +16005,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -16093,7 +16093,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -16106,12 +16106,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -16146,7 +16146,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -16155,7 +16155,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.1095993574928104</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -16166,10 +16166,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -16254,7 +16254,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -16267,12 +16267,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -16307,7 +16307,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -16316,7 +16316,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.2191987149856208</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -16327,10 +16327,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -16415,7 +16415,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -16428,12 +16428,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -16468,7 +16468,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -16477,7 +16477,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.4383974299712416</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -16488,10 +16488,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -16576,7 +16576,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -16589,12 +16589,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -16629,7 +16629,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -16638,7 +16638,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1</ogc:Literal>
+                                    <ogc:Literal>-0.8767948599424832</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -16649,10 +16649,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -16737,7 +16737,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -16750,12 +16750,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -16790,7 +16790,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -16799,7 +16799,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-2</ogc:Literal>
+                                    <ogc:Literal>-1.7535897198849664</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -16810,10 +16810,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -16898,7 +16898,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -16911,12 +16911,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -16951,7 +16951,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -16960,7 +16960,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-4</ogc:Literal>
+                                    <ogc:Literal>-3.5071794397699327</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -16971,10 +16971,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -17059,7 +17059,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -17072,12 +17072,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -17112,7 +17112,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -17121,7 +17121,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-7</ogc:Literal>
+                                    <ogc:Literal>-7.0143588795398655</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -17132,10 +17132,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -17220,7 +17220,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -17233,12 +17233,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -17273,7 +17273,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -17282,7 +17282,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-14</ogc:Literal>
+                                    <ogc:Literal>-14.028717759079731</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -17293,10 +17293,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -17381,7 +17381,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -17394,12 +17394,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -17434,7 +17434,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -17443,7 +17443,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-28</ogc:Literal>
+                                    <ogc:Literal>-28.057435518159462</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -17454,10 +17454,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -17542,7 +17542,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -17555,12 +17555,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -17595,7 +17595,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -17604,7 +17604,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-56</ogc:Literal>
+                                    <ogc:Literal>-56.114871036318924</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -17615,10 +17615,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -17703,7 +17703,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -17716,12 +17716,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -17756,7 +17756,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -17765,7 +17765,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-112</ogc:Literal>
+                                    <ogc:Literal>-112.22974207263785</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -17776,10 +17776,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -17864,7 +17864,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -17877,12 +17877,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -17917,7 +17917,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -17926,7 +17926,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-224</ogc:Literal>
+                                    <ogc:Literal>-224.4594841452757</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -17937,10 +17937,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -18025,7 +18025,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -18038,12 +18038,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -18078,7 +18078,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -18087,7 +18087,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-449</ogc:Literal>
+                                    <ogc:Literal>-448.9189682905514</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -18098,10 +18098,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -18186,7 +18186,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -18199,12 +18199,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -18239,7 +18239,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -18248,7 +18248,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-898</ogc:Literal>
+                                    <ogc:Literal>-897.8379365811028</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -18259,10 +18259,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -18347,7 +18347,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -18360,12 +18360,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -18400,7 +18400,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -18409,7 +18409,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1796</ogc:Literal>
+                                    <ogc:Literal>-1795.6758731622056</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -18420,10 +18420,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -18508,7 +18508,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -18521,12 +18521,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -18561,7 +18561,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -18570,7 +18570,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-3591</ogc:Literal>
+                                    <ogc:Literal>-3591.351746324411</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -18581,10 +18581,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -18669,7 +18669,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -18682,12 +18682,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -18722,7 +18722,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -18731,7 +18731,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-7183</ogc:Literal>
+                                    <ogc:Literal>-7182.703492648822</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -18742,10 +18742,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -18830,7 +18830,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -18843,12 +18843,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -18883,7 +18883,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -18892,7 +18892,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-14365</ogc:Literal>
+                                    <ogc:Literal>-14365.406985297644</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -18903,10 +18903,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -18991,7 +18991,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -19004,12 +19004,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -19044,7 +19044,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -19053,7 +19053,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-28731</ogc:Literal>
+                                    <ogc:Literal>-28730.81397059529</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -19064,10 +19064,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -19152,7 +19152,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -19165,12 +19165,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -19205,7 +19205,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -19214,7 +19214,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-57462</ogc:Literal>
+                                    <ogc:Literal>-57461.62794119058</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -19225,10 +19225,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -19313,7 +19313,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -19326,12 +19326,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -19366,7 +19366,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -19375,7 +19375,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-114923</ogc:Literal>
+                                    <ogc:Literal>-114923.25588238116</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -19386,10 +19386,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -19474,7 +19474,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -19487,12 +19487,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -19527,7 +19527,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -19536,7 +19536,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-229847</ogc:Literal>
+                                    <ogc:Literal>-229846.5117647623</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -19547,10 +19547,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -19635,7 +19635,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -19648,12 +19648,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -19688,7 +19688,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -19697,7 +19697,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-459693</ogc:Literal>
+                                    <ogc:Literal>-459693.0235295246</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -19708,10 +19708,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -19796,7 +19796,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -19809,12 +19809,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -19849,7 +19849,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -19858,7 +19858,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-919386</ogc:Literal>
+                                    <ogc:Literal>-919386.0470590492</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -19869,10 +19869,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -19957,7 +19957,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -19970,12 +19970,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -20010,7 +20010,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -20019,7 +20019,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1838772</ogc:Literal>
+                                    <ogc:Literal>-1838772.0941180985</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -20030,10 +20030,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -20118,7 +20118,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -20131,12 +20131,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -20170,7 +20170,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -20179,7 +20179,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-2451696</ogc:Literal>
+                                    <ogc:Literal>-2451696.125490798</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -20190,10 +20190,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#009A00</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -20278,7 +20278,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -20291,12 +20291,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -20339,7 +20339,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -20348,7 +20348,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0022833199477668834</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -20359,10 +20359,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -20447,7 +20447,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -20460,12 +20460,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -20506,7 +20506,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -20515,7 +20515,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.003424979921650325</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -20526,10 +20526,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -20614,7 +20614,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -20627,12 +20627,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -20673,7 +20673,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -20682,7 +20682,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.00684995984330065</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -20693,10 +20693,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -20781,7 +20781,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -20794,12 +20794,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -20840,7 +20840,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -20849,7 +20849,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0136999196866013</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -20860,10 +20860,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -20948,7 +20948,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -20961,12 +20961,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -21007,7 +21007,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -21016,7 +21016,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0273998393732026</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -21027,10 +21027,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -21115,7 +21115,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -21128,12 +21128,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -21174,7 +21174,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -21183,7 +21183,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0547996787464052</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -21194,10 +21194,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -21282,7 +21282,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -21295,12 +21295,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -21341,7 +21341,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -21350,7 +21350,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.1095993574928104</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -21361,10 +21361,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -21449,7 +21449,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -21462,12 +21462,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -21508,7 +21508,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -21517,7 +21517,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.2191987149856208</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -21528,10 +21528,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -21616,7 +21616,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -21629,12 +21629,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -21675,7 +21675,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -21684,7 +21684,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.4383974299712416</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -21695,10 +21695,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -21783,7 +21783,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -21796,12 +21796,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -21842,7 +21842,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -21851,7 +21851,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1</ogc:Literal>
+                                    <ogc:Literal>-0.8767948599424832</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -21862,10 +21862,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -21950,7 +21950,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -21963,12 +21963,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -22009,7 +22009,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -22018,7 +22018,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-2</ogc:Literal>
+                                    <ogc:Literal>-1.7535897198849664</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -22029,10 +22029,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -22117,7 +22117,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -22130,12 +22130,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -22176,7 +22176,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -22185,7 +22185,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-4</ogc:Literal>
+                                    <ogc:Literal>-3.5071794397699327</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -22196,10 +22196,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -22284,7 +22284,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -22297,12 +22297,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -22343,7 +22343,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -22352,7 +22352,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-7</ogc:Literal>
+                                    <ogc:Literal>-7.0143588795398655</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -22363,10 +22363,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -22451,7 +22451,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -22464,12 +22464,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -22510,7 +22510,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -22519,7 +22519,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-14</ogc:Literal>
+                                    <ogc:Literal>-14.028717759079731</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -22530,10 +22530,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -22618,7 +22618,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -22631,12 +22631,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -22677,7 +22677,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -22686,7 +22686,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-28</ogc:Literal>
+                                    <ogc:Literal>-28.057435518159462</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -22697,10 +22697,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -22785,7 +22785,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -22798,12 +22798,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -22844,7 +22844,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -22853,7 +22853,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-56</ogc:Literal>
+                                    <ogc:Literal>-56.114871036318924</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -22864,10 +22864,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -22952,7 +22952,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -22965,12 +22965,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -23011,7 +23011,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -23020,7 +23020,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-112</ogc:Literal>
+                                    <ogc:Literal>-112.22974207263785</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -23031,10 +23031,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -23119,7 +23119,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -23132,12 +23132,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -23178,7 +23178,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -23187,7 +23187,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-224</ogc:Literal>
+                                    <ogc:Literal>-224.4594841452757</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -23198,10 +23198,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -23286,7 +23286,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -23299,12 +23299,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -23345,7 +23345,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -23354,7 +23354,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-449</ogc:Literal>
+                                    <ogc:Literal>-448.9189682905514</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -23365,10 +23365,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -23453,7 +23453,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -23466,12 +23466,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -23512,7 +23512,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -23521,7 +23521,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-898</ogc:Literal>
+                                    <ogc:Literal>-897.8379365811028</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -23532,10 +23532,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -23620,7 +23620,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -23633,12 +23633,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -23679,7 +23679,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -23688,7 +23688,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1796</ogc:Literal>
+                                    <ogc:Literal>-1795.6758731622056</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -23699,10 +23699,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -23787,7 +23787,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -23800,12 +23800,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -23846,7 +23846,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -23855,7 +23855,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-3591</ogc:Literal>
+                                    <ogc:Literal>-3591.351746324411</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -23866,10 +23866,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -23954,7 +23954,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -23967,12 +23967,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -24013,7 +24013,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -24022,7 +24022,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-7183</ogc:Literal>
+                                    <ogc:Literal>-7182.703492648822</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -24033,10 +24033,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -24121,7 +24121,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -24134,12 +24134,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -24180,7 +24180,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -24189,7 +24189,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-14365</ogc:Literal>
+                                    <ogc:Literal>-14365.406985297644</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -24200,10 +24200,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -24288,7 +24288,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -24301,12 +24301,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -24347,7 +24347,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -24356,7 +24356,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-28731</ogc:Literal>
+                                    <ogc:Literal>-28730.81397059529</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -24367,10 +24367,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -24455,7 +24455,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -24468,12 +24468,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -24514,7 +24514,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -24523,7 +24523,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-57462</ogc:Literal>
+                                    <ogc:Literal>-57461.62794119058</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -24534,10 +24534,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -24622,7 +24622,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -24635,12 +24635,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -24681,7 +24681,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -24690,7 +24690,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-114923</ogc:Literal>
+                                    <ogc:Literal>-114923.25588238116</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -24701,10 +24701,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -24789,7 +24789,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -24802,12 +24802,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -24848,7 +24848,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -24857,7 +24857,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-229847</ogc:Literal>
+                                    <ogc:Literal>-229846.5117647623</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -24868,10 +24868,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -24956,7 +24956,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -24969,12 +24969,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -25015,7 +25015,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -25024,7 +25024,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-459693</ogc:Literal>
+                                    <ogc:Literal>-459693.0235295246</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -25035,10 +25035,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -25123,7 +25123,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -25136,12 +25136,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -25182,7 +25182,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -25191,7 +25191,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-919386</ogc:Literal>
+                                    <ogc:Literal>-919386.0470590492</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -25202,10 +25202,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -25290,7 +25290,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -25303,12 +25303,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -25349,7 +25349,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -25358,7 +25358,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1838772</ogc:Literal>
+                                    <ogc:Literal>-1838772.0941180985</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -25369,10 +25369,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -25457,7 +25457,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -25470,12 +25470,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -25515,7 +25515,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -25524,7 +25524,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-2451696</ogc:Literal>
+                                    <ogc:Literal>-2451696.125490798</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -25535,10 +25535,10 @@
                                         <sld:WellKnownName>shape://slash</sld:WellKnownName>
                                         <sld:Stroke>
                                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                                            <sld:CssParameter name="stroke-width">0</sld:CssParameter>
+                                            <sld:CssParameter name="stroke-width">0.5314960629921259</sld:CssParameter>
                                         </sld:Stroke>
                                     </sld:Mark>
-                                    <sld:Size>6</sld:Size>
+                                    <sld:Size>7.086614173228346</sld:Size>
                                 </sld:Graphic>
                             </sld:GraphicFill>
                         </sld:Fill>
@@ -25623,7 +25623,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -25636,12 +25636,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -25678,7 +25678,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -25687,7 +25687,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0022833199477668834</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -25776,7 +25776,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -25789,12 +25789,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -25829,7 +25829,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -25838,7 +25838,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.003424979921650325</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -25927,7 +25927,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -25940,12 +25940,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -25980,7 +25980,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -25989,7 +25989,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.00684995984330065</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -26078,7 +26078,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -26091,12 +26091,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -26131,7 +26131,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -26140,7 +26140,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0136999196866013</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -26229,7 +26229,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -26242,12 +26242,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -26282,7 +26282,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -26291,7 +26291,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0273998393732026</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -26380,7 +26380,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -26393,12 +26393,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -26433,7 +26433,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -26442,7 +26442,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0547996787464052</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -26531,7 +26531,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -26544,12 +26544,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -26584,7 +26584,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -26593,7 +26593,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.1095993574928104</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -26682,7 +26682,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -26695,12 +26695,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -26735,7 +26735,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -26744,7 +26744,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.2191987149856208</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -26833,7 +26833,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -26846,12 +26846,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -26886,7 +26886,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -26895,7 +26895,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.4383974299712416</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -26984,7 +26984,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -26997,12 +26997,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -27037,7 +27037,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -27046,7 +27046,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1</ogc:Literal>
+                                    <ogc:Literal>-0.8767948599424832</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -27135,7 +27135,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -27148,12 +27148,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -27188,7 +27188,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -27197,7 +27197,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-2</ogc:Literal>
+                                    <ogc:Literal>-1.7535897198849664</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -27286,7 +27286,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -27299,12 +27299,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -27339,7 +27339,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -27348,7 +27348,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-4</ogc:Literal>
+                                    <ogc:Literal>-3.5071794397699327</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -27437,7 +27437,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -27450,12 +27450,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -27490,7 +27490,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -27499,7 +27499,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-7</ogc:Literal>
+                                    <ogc:Literal>-7.0143588795398655</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -27588,7 +27588,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -27601,12 +27601,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -27641,7 +27641,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -27650,7 +27650,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-14</ogc:Literal>
+                                    <ogc:Literal>-14.028717759079731</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -27739,7 +27739,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -27752,12 +27752,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -27792,7 +27792,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -27801,7 +27801,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-28</ogc:Literal>
+                                    <ogc:Literal>-28.057435518159462</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -27890,7 +27890,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -27903,12 +27903,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -27943,7 +27943,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -27952,7 +27952,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-56</ogc:Literal>
+                                    <ogc:Literal>-56.114871036318924</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -28041,7 +28041,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -28054,12 +28054,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -28094,7 +28094,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -28103,7 +28103,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-112</ogc:Literal>
+                                    <ogc:Literal>-112.22974207263785</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -28192,7 +28192,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -28205,12 +28205,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -28245,7 +28245,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -28254,7 +28254,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-224</ogc:Literal>
+                                    <ogc:Literal>-224.4594841452757</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -28343,7 +28343,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -28356,12 +28356,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -28396,7 +28396,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -28405,7 +28405,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-449</ogc:Literal>
+                                    <ogc:Literal>-448.9189682905514</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -28494,7 +28494,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -28507,12 +28507,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -28547,7 +28547,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -28556,7 +28556,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-898</ogc:Literal>
+                                    <ogc:Literal>-897.8379365811028</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -28645,7 +28645,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -28658,12 +28658,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -28698,7 +28698,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -28707,7 +28707,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1796</ogc:Literal>
+                                    <ogc:Literal>-1795.6758731622056</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -28796,7 +28796,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -28809,12 +28809,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -28849,7 +28849,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -28858,7 +28858,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-3591</ogc:Literal>
+                                    <ogc:Literal>-3591.351746324411</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -28947,7 +28947,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -28960,12 +28960,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -29000,7 +29000,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -29009,7 +29009,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-7183</ogc:Literal>
+                                    <ogc:Literal>-7182.703492648822</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -29098,7 +29098,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -29111,12 +29111,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -29151,7 +29151,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -29160,7 +29160,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-14365</ogc:Literal>
+                                    <ogc:Literal>-14365.406985297644</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -29249,7 +29249,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -29262,12 +29262,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -29302,7 +29302,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -29311,7 +29311,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-28731</ogc:Literal>
+                                    <ogc:Literal>-28730.81397059529</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -29400,7 +29400,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -29413,12 +29413,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -29453,7 +29453,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -29462,7 +29462,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-57462</ogc:Literal>
+                                    <ogc:Literal>-57461.62794119058</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -29551,7 +29551,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -29564,12 +29564,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -29604,7 +29604,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -29613,7 +29613,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-114923</ogc:Literal>
+                                    <ogc:Literal>-114923.25588238116</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -29702,7 +29702,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -29715,12 +29715,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -29755,7 +29755,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -29764,7 +29764,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-229847</ogc:Literal>
+                                    <ogc:Literal>-229846.5117647623</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -29853,7 +29853,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -29866,12 +29866,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -29906,7 +29906,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -29915,7 +29915,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-459693</ogc:Literal>
+                                    <ogc:Literal>-459693.0235295246</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -30004,7 +30004,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -30017,12 +30017,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -30057,7 +30057,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -30066,7 +30066,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-919386</ogc:Literal>
+                                    <ogc:Literal>-919386.0470590492</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -30155,7 +30155,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -30168,12 +30168,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -30208,7 +30208,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -30217,7 +30217,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1838772</ogc:Literal>
+                                    <ogc:Literal>-1838772.0941180985</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -30306,7 +30306,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -30319,12 +30319,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -30358,7 +30358,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#8200FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -30367,7 +30367,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-2451696</ogc:Literal>
+                                    <ogc:Literal>-2451696.125490798</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -30456,7 +30456,7 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
@@ -30469,12 +30469,12 @@
                             </sld:PointPlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -30517,7 +30517,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -30526,7 +30526,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0022833199477668834</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -30627,27 +30627,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -30687,7 +30687,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -30696,7 +30696,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.003424979921650325</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -30797,27 +30797,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -30857,7 +30857,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -30866,7 +30866,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.00684995984330065</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -30967,27 +30967,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -31027,7 +31027,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -31036,7 +31036,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0136999196866013</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -31137,27 +31137,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -31197,7 +31197,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -31206,7 +31206,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0273998393732026</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -31307,27 +31307,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -31367,7 +31367,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -31376,7 +31376,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0547996787464052</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -31477,27 +31477,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -31537,7 +31537,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -31546,7 +31546,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.1095993574928104</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -31647,27 +31647,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -31707,7 +31707,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -31716,7 +31716,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.2191987149856208</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -31817,27 +31817,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -31877,7 +31877,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -31886,7 +31886,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.4383974299712416</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -31987,27 +31987,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -32047,7 +32047,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -32056,7 +32056,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1</ogc:Literal>
+                                    <ogc:Literal>-0.8767948599424832</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -32157,27 +32157,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -32217,7 +32217,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -32226,7 +32226,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-2</ogc:Literal>
+                                    <ogc:Literal>-1.7535897198849664</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -32327,27 +32327,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -32387,7 +32387,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -32396,7 +32396,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-4</ogc:Literal>
+                                    <ogc:Literal>-3.5071794397699327</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -32497,27 +32497,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -32557,7 +32557,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -32566,7 +32566,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-7</ogc:Literal>
+                                    <ogc:Literal>-7.0143588795398655</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -32667,27 +32667,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -32727,7 +32727,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -32736,7 +32736,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-14</ogc:Literal>
+                                    <ogc:Literal>-14.028717759079731</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -32837,27 +32837,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -32897,7 +32897,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -32906,7 +32906,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-28</ogc:Literal>
+                                    <ogc:Literal>-28.057435518159462</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -33007,27 +33007,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -33067,7 +33067,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -33076,7 +33076,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-56</ogc:Literal>
+                                    <ogc:Literal>-56.114871036318924</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -33177,27 +33177,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -33237,7 +33237,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -33246,7 +33246,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-112</ogc:Literal>
+                                    <ogc:Literal>-112.22974207263785</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -33347,27 +33347,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -33407,7 +33407,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -33416,7 +33416,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-224</ogc:Literal>
+                                    <ogc:Literal>-224.4594841452757</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -33517,27 +33517,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -33577,7 +33577,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -33586,7 +33586,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-449</ogc:Literal>
+                                    <ogc:Literal>-448.9189682905514</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -33687,27 +33687,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -33747,7 +33747,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -33756,7 +33756,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-898</ogc:Literal>
+                                    <ogc:Literal>-897.8379365811028</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -33857,27 +33857,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -33917,7 +33917,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -33926,7 +33926,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1796</ogc:Literal>
+                                    <ogc:Literal>-1795.6758731622056</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -34027,27 +34027,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -34087,7 +34087,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -34096,7 +34096,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-3591</ogc:Literal>
+                                    <ogc:Literal>-3591.351746324411</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -34197,27 +34197,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -34257,7 +34257,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -34266,7 +34266,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-7183</ogc:Literal>
+                                    <ogc:Literal>-7182.703492648822</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -34367,27 +34367,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -34427,7 +34427,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -34436,7 +34436,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-14365</ogc:Literal>
+                                    <ogc:Literal>-14365.406985297644</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -34537,27 +34537,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -34597,7 +34597,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -34606,7 +34606,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-28731</ogc:Literal>
+                                    <ogc:Literal>-28730.81397059529</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -34707,27 +34707,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -34767,7 +34767,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -34776,7 +34776,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-57462</ogc:Literal>
+                                    <ogc:Literal>-57461.62794119058</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -34877,27 +34877,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -34937,7 +34937,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -34946,7 +34946,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-114923</ogc:Literal>
+                                    <ogc:Literal>-114923.25588238116</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -35047,27 +35047,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -35107,7 +35107,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -35116,7 +35116,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-229847</ogc:Literal>
+                                    <ogc:Literal>-229846.5117647623</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -35217,27 +35217,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -35277,7 +35277,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -35286,7 +35286,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-459693</ogc:Literal>
+                                    <ogc:Literal>-459693.0235295246</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -35387,27 +35387,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -35447,7 +35447,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -35456,7 +35456,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-919386</ogc:Literal>
+                                    <ogc:Literal>-919386.0470590492</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -35557,27 +35557,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -35617,7 +35617,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -35626,7 +35626,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1838772</ogc:Literal>
+                                    <ogc:Literal>-1838772.0941180985</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -35727,27 +35727,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -35786,7 +35786,7 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -35795,7 +35795,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-2451696</ogc:Literal>
+                                    <ogc:Literal>-2451696.125490798</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -35896,27 +35896,27 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                         <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">276</sld:VendorOption>
+                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -35952,8 +35952,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -35962,7 +35962,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0022833199477668834</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -36063,24 +36063,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -36115,8 +36115,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -36125,7 +36125,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.003424979921650325</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -36226,24 +36226,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -36278,8 +36278,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -36288,7 +36288,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.00684995984330065</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -36389,24 +36389,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -36441,8 +36441,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -36451,7 +36451,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0136999196866013</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -36552,24 +36552,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -36604,8 +36604,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -36614,7 +36614,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0273998393732026</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -36715,24 +36715,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -36767,8 +36767,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -36777,7 +36777,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.0547996787464052</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -36878,24 +36878,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -36930,8 +36930,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -36940,7 +36940,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.1095993574928104</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -37041,24 +37041,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -37093,8 +37093,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -37103,7 +37103,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.2191987149856208</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -37204,24 +37204,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -37256,8 +37256,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -37266,7 +37266,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>0</ogc:Literal>
+                                    <ogc:Literal>-0.4383974299712416</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -37367,24 +37367,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -37419,8 +37419,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -37429,7 +37429,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1</ogc:Literal>
+                                    <ogc:Literal>-0.8767948599424832</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -37530,24 +37530,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -37582,8 +37582,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -37592,7 +37592,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-2</ogc:Literal>
+                                    <ogc:Literal>-1.7535897198849664</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -37693,24 +37693,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -37745,8 +37745,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -37755,7 +37755,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-4</ogc:Literal>
+                                    <ogc:Literal>-3.5071794397699327</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -37856,24 +37856,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -37908,8 +37908,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -37918,7 +37918,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-7</ogc:Literal>
+                                    <ogc:Literal>-7.0143588795398655</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -38019,24 +38019,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -38071,8 +38071,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -38081,7 +38081,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-14</ogc:Literal>
+                                    <ogc:Literal>-14.028717759079731</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -38182,24 +38182,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -38234,8 +38234,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -38244,7 +38244,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-28</ogc:Literal>
+                                    <ogc:Literal>-28.057435518159462</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -38345,24 +38345,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -38397,8 +38397,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -38407,7 +38407,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-56</ogc:Literal>
+                                    <ogc:Literal>-56.114871036318924</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -38508,24 +38508,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -38560,8 +38560,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -38570,7 +38570,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-112</ogc:Literal>
+                                    <ogc:Literal>-112.22974207263785</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -38671,24 +38671,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -38723,8 +38723,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -38733,7 +38733,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-224</ogc:Literal>
+                                    <ogc:Literal>-224.4594841452757</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -38834,24 +38834,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -38886,8 +38886,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -38896,7 +38896,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-449</ogc:Literal>
+                                    <ogc:Literal>-448.9189682905514</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -38997,24 +38997,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -39049,8 +39049,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -39059,7 +39059,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-898</ogc:Literal>
+                                    <ogc:Literal>-897.8379365811028</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -39160,24 +39160,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -39212,8 +39212,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -39222,7 +39222,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1796</ogc:Literal>
+                                    <ogc:Literal>-1795.6758731622056</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -39323,24 +39323,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -39375,8 +39375,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -39385,7 +39385,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-3591</ogc:Literal>
+                                    <ogc:Literal>-3591.351746324411</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -39486,24 +39486,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -39538,8 +39538,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -39548,7 +39548,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-7183</ogc:Literal>
+                                    <ogc:Literal>-7182.703492648822</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -39649,24 +39649,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -39701,8 +39701,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -39711,7 +39711,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-14365</ogc:Literal>
+                                    <ogc:Literal>-14365.406985297644</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -39812,24 +39812,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -39864,8 +39864,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -39874,7 +39874,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-28731</ogc:Literal>
+                                    <ogc:Literal>-28730.81397059529</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -39975,24 +39975,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -40027,8 +40027,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -40037,7 +40037,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-57462</ogc:Literal>
+                                    <ogc:Literal>-57461.62794119058</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -40138,24 +40138,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -40190,8 +40190,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -40200,7 +40200,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-114923</ogc:Literal>
+                                    <ogc:Literal>-114923.25588238116</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -40301,24 +40301,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -40353,8 +40353,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -40363,7 +40363,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-229847</ogc:Literal>
+                                    <ogc:Literal>-229846.5117647623</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -40464,24 +40464,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -40516,8 +40516,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -40526,7 +40526,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-459693</ogc:Literal>
+                                    <ogc:Literal>-459693.0235295246</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -40627,24 +40627,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -40679,8 +40679,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -40689,7 +40689,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-919386</ogc:Literal>
+                                    <ogc:Literal>-919386.0470590492</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -40790,24 +40790,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -40842,8 +40842,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -40852,7 +40852,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-1838772</ogc:Literal>
+                                    <ogc:Literal>-1838772.0941180985</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -40953,24 +40953,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -41004,8 +41004,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">7 7</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">8.858267716535433 8.858267716535433</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -41014,7 +41014,7 @@
                                 <ogc:PropertyName>way</ogc:PropertyName>
                                 <ogc:Function name="buffer">
                                     <ogc:PropertyName>way</ogc:PropertyName>
-                                    <ogc:Literal>-2451696</ogc:Literal>
+                                    <ogc:Literal>-2451696.125490798</ogc:Literal>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
@@ -41115,24 +41115,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -41175,8 +41175,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -41277,24 +41277,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -41335,8 +41335,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -41437,24 +41437,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -41495,8 +41495,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -41597,24 +41597,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -41655,8 +41655,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -41757,24 +41757,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -41815,8 +41815,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -41917,24 +41917,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -41975,8 +41975,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -42077,24 +42077,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -42135,8 +42135,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -42237,24 +42237,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -42295,8 +42295,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -42397,24 +42397,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -42455,8 +42455,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -42557,24 +42557,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -42615,8 +42615,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -42717,24 +42717,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -42775,8 +42775,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -42877,24 +42877,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -42935,8 +42935,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -43037,24 +43037,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -43095,8 +43095,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -43197,24 +43197,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -43255,8 +43255,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -43357,24 +43357,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -43415,8 +43415,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -43517,24 +43517,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -43575,8 +43575,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -43677,24 +43677,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -43735,8 +43735,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -43837,24 +43837,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -43895,8 +43895,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -43997,24 +43997,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -44055,8 +44055,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -44157,24 +44157,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -44215,8 +44215,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -44317,24 +44317,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -44375,8 +44375,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -44477,24 +44477,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -44535,8 +44535,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -44637,24 +44637,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -44695,8 +44695,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -44797,24 +44797,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -44855,8 +44855,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -44957,24 +44957,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -45015,8 +45015,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -45117,24 +45117,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -45175,8 +45175,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -45277,24 +45277,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -45335,8 +45335,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -45437,24 +45437,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -45495,8 +45495,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -45597,24 +45597,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -45655,8 +45655,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -45757,24 +45757,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -45815,8 +45815,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -45917,24 +45917,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -45975,8 +45975,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -46077,24 +46077,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -46134,8 +46134,8 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
@@ -46236,24 +46236,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-4</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="maxDisplacement">138</sld:VendorOption>
+                        <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
@@ -46290,15 +46290,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -46393,24 +46393,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">176427883</sld:VendorOption>
+                        <sld:VendorOption name="repeat">2.2683584983761925E8</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -46444,15 +46444,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -46547,24 +46547,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">117618589</sld:VendorOption>
+                        <sld:VendorOption name="repeat">1.5122389989174613E8</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -46598,15 +46598,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -46701,24 +46701,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">58809294</sld:VendorOption>
+                        <sld:VendorOption name="repeat">7.561194994587307E7</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -46752,15 +46752,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -46855,24 +46855,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">29404647</sld:VendorOption>
+                        <sld:VendorOption name="repeat">3.780597497293653E7</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -46906,15 +46906,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -47009,24 +47009,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">14702324</sld:VendorOption>
+                        <sld:VendorOption name="repeat">1.8902987486468267E7</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -47060,15 +47060,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -47163,24 +47163,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">7351162</sld:VendorOption>
+                        <sld:VendorOption name="repeat">9451493.743234133</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -47214,15 +47214,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -47317,24 +47317,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">3675581</sld:VendorOption>
+                        <sld:VendorOption name="repeat">4725746.871617067</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -47368,15 +47368,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -47471,24 +47471,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">1837790</sld:VendorOption>
+                        <sld:VendorOption name="repeat">2362873.4358085333</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -47522,15 +47522,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -47625,24 +47625,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">918895</sld:VendorOption>
+                        <sld:VendorOption name="repeat">1181436.7179042667</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -47676,15 +47676,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -47779,24 +47779,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">459448</sld:VendorOption>
+                        <sld:VendorOption name="repeat">590718.3589521333</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -47830,15 +47830,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -47933,24 +47933,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">229724</sld:VendorOption>
+                        <sld:VendorOption name="repeat">295359.17947606667</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -47984,15 +47984,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -48087,24 +48087,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">114862</sld:VendorOption>
+                        <sld:VendorOption name="repeat">147679.58973803333</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -48138,15 +48138,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -48241,24 +48241,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">57431</sld:VendorOption>
+                        <sld:VendorOption name="repeat">73839.79486901667</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -48292,15 +48292,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -48395,24 +48395,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">28715</sld:VendorOption>
+                        <sld:VendorOption name="repeat">36919.89743450833</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -48446,15 +48446,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -48549,24 +48549,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">14358</sld:VendorOption>
+                        <sld:VendorOption name="repeat">18459.948717254167</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -48600,15 +48600,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -48703,24 +48703,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">7179</sld:VendorOption>
+                        <sld:VendorOption name="repeat">9229.974358627083</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -48754,15 +48754,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -48857,24 +48857,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">3589</sld:VendorOption>
+                        <sld:VendorOption name="repeat">4614.987179313542</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -48908,15 +48908,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -49011,24 +49011,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">1795</sld:VendorOption>
+                        <sld:VendorOption name="repeat">2307.493589656771</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -49062,15 +49062,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -49165,24 +49165,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">897</sld:VendorOption>
+                        <sld:VendorOption name="repeat">1153.7467948283854</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -49216,15 +49216,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -49319,24 +49319,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">449</sld:VendorOption>
+                        <sld:VendorOption name="repeat">576.8733974141927</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -49370,15 +49370,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -49473,24 +49473,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">224</sld:VendorOption>
+                        <sld:VendorOption name="repeat">288.43669870709635</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -49524,15 +49524,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -49627,24 +49627,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">112</sld:VendorOption>
+                        <sld:VendorOption name="repeat">144.21834935354818</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -49678,15 +49678,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -49781,24 +49781,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">56</sld:VendorOption>
+                        <sld:VendorOption name="repeat">72.10917467677409</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -49832,15 +49832,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -49935,24 +49935,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">28</sld:VendorOption>
+                        <sld:VendorOption name="repeat">36.054587338387044</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -49986,15 +49986,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -50089,24 +50089,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">14</sld:VendorOption>
+                        <sld:VendorOption name="repeat">18.027293669193522</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -50140,15 +50140,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -50243,24 +50243,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">7</sld:VendorOption>
+                        <sld:VendorOption name="repeat">9.013646834596761</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -50294,15 +50294,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -50397,24 +50397,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">4</sld:VendorOption>
+                        <sld:VendorOption name="repeat">4.5068234172983805</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -50448,15 +50448,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -50551,24 +50551,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">2</sld:VendorOption>
+                        <sld:VendorOption name="repeat">2.2534117086491903</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -50602,15 +50602,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -50705,24 +50705,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">1</sld:VendorOption>
+                        <sld:VendorOption name="repeat">1.1267058543245951</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -50756,15 +50756,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -50859,24 +50859,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">0</sld:VendorOption>
+                        <sld:VendorOption name="repeat">0.5633529271622976</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -50910,15 +50910,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -51013,24 +51013,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">0</sld:VendorOption>
+                        <sld:VendorOption name="repeat">0.2816764635811488</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -51063,15 +51063,15 @@
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#F091A9</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">11</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:PolygonSymbolizer>
                         <sld:Stroke>
                             <sld:CssParameter name="stroke">#0000FF</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-                            <sld:CssParameter name="stroke-dasharray">14 6</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.7716535433070866</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">17.716535433070867 7.086614173228346</sld:CssParameter>
                         </sld:Stroke>
                     </sld:PolygonSymbolizer>
                     <sld:TextSymbolizer>
@@ -51166,24 +51166,24 @@
                         </sld:Label>
                         <sld:Font>
                             <sld:CssParameter name="font-family">Arial</sld:CssParameter>
-                            <sld:CssParameter name="font-size">11</sld:CssParameter>
+                            <sld:CssParameter name="font-size">14.173228346456693</sld:CssParameter>
                             <sld:CssParameter name="font-style">normal</sld:CssParameter>
                             <sld:CssParameter name="font-weight">bold</sld:CssParameter>
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-9</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
-                            <sld:Radius>1</sld:Radius>
+                            <sld:Radius>0.7086614173228347</sld:Radius>
                         </sld:Halo>
                         <sld:Fill>
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">0</sld:VendorOption>
+                        <sld:VendorOption name="repeat">0.21125734768586163</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
