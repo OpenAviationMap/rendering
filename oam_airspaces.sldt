@@ -159,7 +159,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">50mm</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -321,7 +321,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">50mm</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -483,7 +483,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">50mm</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -645,7 +645,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">50mm</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -813,7 +813,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">50mm</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -965,7 +965,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">50mm</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -1027,7 +1027,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-2mm</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -1122,7 +1125,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-3.1mm</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-4.5mm</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -1134,9 +1137,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">50mm</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">100mm</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">150mm</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -1193,7 +1195,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-2mm</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -1288,7 +1293,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-3.1mm</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-4.5mm</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -1300,7 +1305,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">50mm</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">150mm</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -1449,7 +1455,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-1.6mm</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-4.5mm</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -1461,7 +1467,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">50mm</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">150mm</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -1605,7 +1612,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-3.2mm</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-6.5mm</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -1615,8 +1622,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">50000m</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">200mm</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>

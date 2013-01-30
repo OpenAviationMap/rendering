@@ -158,7 +158,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -309,7 +309,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -460,7 +460,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -611,7 +611,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -762,7 +762,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -913,7 +913,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1064,7 +1064,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1215,7 +1215,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1366,7 +1366,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1517,7 +1517,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1668,7 +1668,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1819,7 +1819,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -1970,7 +1970,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2121,7 +2121,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2272,7 +2272,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2423,7 +2423,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2574,7 +2574,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2725,7 +2725,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -2876,7 +2876,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3027,7 +3027,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3178,7 +3178,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3329,7 +3329,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3480,7 +3480,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3631,7 +3631,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3782,7 +3782,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -3933,7 +3933,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4084,7 +4084,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4235,7 +4235,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4386,7 +4386,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4537,7 +4537,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4688,7 +4688,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -4838,7 +4838,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -5001,7 +5001,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5162,7 +5162,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5323,7 +5323,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5484,7 +5484,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5645,7 +5645,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5806,7 +5806,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -5967,7 +5967,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6128,7 +6128,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6289,7 +6289,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6450,7 +6450,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6611,7 +6611,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6772,7 +6772,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -6933,7 +6933,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7094,7 +7094,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7255,7 +7255,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7416,7 +7416,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7577,7 +7577,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7738,7 +7738,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -7899,7 +7899,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8060,7 +8060,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8221,7 +8221,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8382,7 +8382,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8543,7 +8543,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8704,7 +8704,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -8865,7 +8865,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9026,7 +9026,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9187,7 +9187,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9348,7 +9348,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9509,7 +9509,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9670,7 +9670,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9831,7 +9831,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -9991,7 +9991,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -10154,7 +10154,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10315,7 +10315,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10476,7 +10476,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10637,7 +10637,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10798,7 +10798,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -10959,7 +10959,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -11120,7 +11120,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -11281,7 +11281,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -11442,7 +11442,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -11603,7 +11603,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -11764,7 +11764,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -11925,7 +11925,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -12086,7 +12086,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -12247,7 +12247,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -12408,7 +12408,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -12569,7 +12569,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -12730,7 +12730,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -12891,7 +12891,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -13052,7 +13052,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -13213,7 +13213,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -13374,7 +13374,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -13535,7 +13535,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -13696,7 +13696,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -13857,7 +13857,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -14018,7 +14018,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -14179,7 +14179,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -14340,7 +14340,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -14501,7 +14501,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -14662,7 +14662,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -14823,7 +14823,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -14984,7 +14984,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -15144,7 +15144,7 @@
                             <CssParameter name="fill">#FF0000</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -15307,7 +15307,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -15468,7 +15468,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -15629,7 +15629,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -15790,7 +15790,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -15951,7 +15951,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -16112,7 +16112,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -16273,7 +16273,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -16434,7 +16434,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -16595,7 +16595,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -16756,7 +16756,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -16917,7 +16917,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -17078,7 +17078,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -17239,7 +17239,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -17400,7 +17400,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -17561,7 +17561,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -17722,7 +17722,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -17883,7 +17883,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -18044,7 +18044,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -18205,7 +18205,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -18366,7 +18366,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -18527,7 +18527,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -18688,7 +18688,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -18849,7 +18849,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -19010,7 +19010,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -19171,7 +19171,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -19332,7 +19332,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -19493,7 +19493,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -19654,7 +19654,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -19815,7 +19815,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -19976,7 +19976,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -20137,7 +20137,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -20297,7 +20297,7 @@
                             <CssParameter name="fill">#009A00</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -20466,7 +20466,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -20633,7 +20633,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -20800,7 +20800,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -20967,7 +20967,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -21134,7 +21134,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -21301,7 +21301,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -21468,7 +21468,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -21635,7 +21635,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -21802,7 +21802,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -21969,7 +21969,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -22136,7 +22136,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -22303,7 +22303,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -22470,7 +22470,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -22637,7 +22637,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -22804,7 +22804,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -22971,7 +22971,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -23138,7 +23138,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -23305,7 +23305,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -23472,7 +23472,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -23639,7 +23639,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -23806,7 +23806,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -23973,7 +23973,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -24140,7 +24140,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -24307,7 +24307,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -24474,7 +24474,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -24641,7 +24641,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -24808,7 +24808,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -24975,7 +24975,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -25142,7 +25142,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -25309,7 +25309,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -25476,7 +25476,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -25642,7 +25642,7 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -25795,7 +25795,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -25946,7 +25946,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -26097,7 +26097,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -26248,7 +26248,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -26399,7 +26399,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -26550,7 +26550,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -26701,7 +26701,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -26852,7 +26852,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -27003,7 +27003,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -27154,7 +27154,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -27305,7 +27305,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -27456,7 +27456,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -27607,7 +27607,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -27758,7 +27758,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -27909,7 +27909,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -28060,7 +28060,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -28211,7 +28211,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -28362,7 +28362,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -28513,7 +28513,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -28664,7 +28664,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -28815,7 +28815,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -28966,7 +28966,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -29117,7 +29117,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -29268,7 +29268,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -29419,7 +29419,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -29570,7 +29570,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -29721,7 +29721,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -29872,7 +29872,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -30023,7 +30023,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -30174,7 +30174,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -30325,7 +30325,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -30475,7 +30475,7 @@
                             <CssParameter name="fill">#8200FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -30538,7 +30538,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.0022833199477668834</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -30633,7 +30636,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -30645,9 +30648,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -30708,7 +30710,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.003424979921650325</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -30803,7 +30808,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -30815,9 +30820,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -30878,7 +30882,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.00684995984330065</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -30973,7 +30980,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -30985,9 +30992,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -31048,7 +31054,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.0136999196866013</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -31143,7 +31152,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -31155,9 +31164,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -31218,7 +31226,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.0273998393732026</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -31313,7 +31324,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -31325,9 +31336,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -31388,7 +31398,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.0547996787464052</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -31483,7 +31496,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -31495,9 +31508,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -31558,7 +31570,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.1095993574928104</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -31653,7 +31668,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -31665,9 +31680,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -31728,7 +31742,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.2191987149856208</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -31823,7 +31840,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -31835,9 +31852,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -31898,7 +31914,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.4383974299712416</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -31993,7 +32012,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -32005,9 +32024,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -32068,7 +32086,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.8767948599424832</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -32163,7 +32184,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -32175,9 +32196,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -32238,7 +32258,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-1.7535897198849664</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -32333,7 +32356,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -32345,9 +32368,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -32408,7 +32430,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-3.5071794397699327</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -32503,7 +32528,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -32515,9 +32540,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -32578,7 +32602,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-7.0143588795398655</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -32673,7 +32700,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -32685,9 +32712,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -32748,7 +32774,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-14.028717759079731</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -32843,7 +32872,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -32855,9 +32884,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -32918,7 +32946,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-28.057435518159462</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -33013,7 +33044,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -33025,9 +33056,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -33088,7 +33118,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-56.114871036318924</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -33183,7 +33216,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -33195,9 +33228,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -33258,7 +33290,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-112.22974207263785</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -33353,7 +33388,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -33365,9 +33400,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -33428,7 +33462,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-224.4594841452757</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -33523,7 +33560,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -33535,9 +33572,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -33598,7 +33634,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-448.9189682905514</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -33693,7 +33732,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -33705,9 +33744,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -33768,7 +33806,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-897.8379365811028</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -33863,7 +33904,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -33875,9 +33916,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -33938,7 +33978,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-1795.6758731622056</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -34033,7 +34076,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -34045,9 +34088,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -34108,7 +34150,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-3591.351746324411</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -34203,7 +34248,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -34215,9 +34260,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -34278,7 +34322,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-7182.703492648822</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -34373,7 +34420,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -34385,9 +34432,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -34448,7 +34494,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-14365.406985297644</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -34543,7 +34592,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -34555,9 +34604,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -34618,7 +34666,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-28730.81397059529</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -34713,7 +34764,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -34725,9 +34776,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -34788,7 +34838,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-57461.62794119058</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -34883,7 +34936,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -34895,9 +34948,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -34958,7 +35010,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-114923.25588238116</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -35053,7 +35108,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -35065,9 +35120,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -35128,7 +35182,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-229846.5117647623</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -35223,7 +35280,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -35235,9 +35292,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -35298,7 +35354,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-459693.0235295246</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -35393,7 +35452,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -35405,9 +35464,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -35468,7 +35526,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-919386.0470590492</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -35563,7 +35624,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -35575,9 +35636,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -35638,7 +35698,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-1838772.0941180985</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -35733,7 +35796,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -35745,9 +35808,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -35807,7 +35869,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-2451696.125490798</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -35902,7 +35967,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -35914,9 +35979,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
-                        <sld:VendorOption name="repeat">354.33070866141736</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -35974,7 +36038,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.0022833199477668834</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -36069,7 +36136,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -36081,7 +36148,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -36137,7 +36205,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.003424979921650325</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -36232,7 +36303,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -36244,7 +36315,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -36300,7 +36372,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.00684995984330065</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -36395,7 +36470,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -36407,7 +36482,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -36463,7 +36539,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.0136999196866013</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -36558,7 +36637,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -36570,7 +36649,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -36626,7 +36706,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.0273998393732026</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -36721,7 +36804,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -36733,7 +36816,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -36789,7 +36873,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.0547996787464052</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -36884,7 +36971,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -36896,7 +36983,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -36952,7 +37040,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.1095993574928104</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -37047,7 +37138,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -37059,7 +37150,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -37115,7 +37207,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.2191987149856208</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -37210,7 +37305,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -37222,7 +37317,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -37278,7 +37374,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.4383974299712416</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -37373,7 +37472,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -37385,7 +37484,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -37441,7 +37541,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-0.8767948599424832</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -37536,7 +37639,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -37548,7 +37651,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -37604,7 +37708,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-1.7535897198849664</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -37699,7 +37806,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -37711,7 +37818,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -37767,7 +37875,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-3.5071794397699327</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -37862,7 +37973,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -37874,7 +37985,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -37930,7 +38042,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-7.0143588795398655</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -38025,7 +38140,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -38037,7 +38152,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -38093,7 +38209,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-14.028717759079731</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -38188,7 +38307,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -38200,7 +38319,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -38256,7 +38376,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-28.057435518159462</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -38351,7 +38474,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -38363,7 +38486,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -38419,7 +38543,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-56.114871036318924</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -38514,7 +38641,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -38526,7 +38653,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -38582,7 +38710,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-112.22974207263785</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -38677,7 +38808,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -38689,7 +38820,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -38745,7 +38877,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-224.4594841452757</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -38840,7 +38975,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -38852,7 +38987,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -38908,7 +39044,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-448.9189682905514</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -39003,7 +39142,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -39015,7 +39154,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -39071,7 +39211,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-897.8379365811028</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -39166,7 +39309,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -39178,7 +39321,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -39234,7 +39378,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-1795.6758731622056</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -39329,7 +39476,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -39341,7 +39488,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -39397,7 +39545,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-3591.351746324411</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -39492,7 +39643,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -39504,7 +39655,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -39560,7 +39712,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-7182.703492648822</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -39655,7 +39810,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -39667,7 +39822,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -39723,7 +39879,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-14365.406985297644</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -39818,7 +39977,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -39830,7 +39989,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -39886,7 +40046,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-28730.81397059529</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -39981,7 +40144,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -39993,7 +40156,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -40049,7 +40213,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-57461.62794119058</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -40144,7 +40311,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -40156,7 +40323,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -40212,7 +40380,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-114923.25588238116</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -40307,7 +40478,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -40319,7 +40490,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -40375,7 +40547,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-229846.5117647623</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -40470,7 +40645,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -40482,7 +40657,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -40538,7 +40714,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-459693.0235295246</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -40633,7 +40812,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -40645,7 +40824,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -40701,7 +40881,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-919386.0470590492</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -40796,7 +40979,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -40808,7 +40991,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -40864,7 +41048,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-1838772.0941180985</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -40959,7 +41146,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -40971,7 +41158,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -41026,7 +41214,10 @@
                     <sld:TextSymbolizer>
                         <sld:Geometry>
                             <ogc:Function name="boundary">
-                                <ogc:PropertyName>way</ogc:PropertyName>
+                                <ogc:Function name="buffer">
+                                    <ogc:PropertyName>way</ogc:PropertyName>
+                                    <ogc:Literal>-2451696.125490798</ogc:Literal>
+                                </ogc:Function>
                             </ogc:Function>
                         </sld:Geometry>
                         <sld:Label>
@@ -41121,7 +41312,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-10.984251968503939</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -41133,7 +41324,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -41283,7 +41475,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -41295,7 +41487,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -41443,7 +41636,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -41455,7 +41648,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -41603,7 +41797,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -41615,7 +41809,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -41763,7 +41958,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -41775,7 +41970,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -41923,7 +42119,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -41935,7 +42131,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -42083,7 +42280,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -42095,7 +42292,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -42243,7 +42441,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -42255,7 +42453,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -42403,7 +42602,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -42415,7 +42614,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -42563,7 +42763,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -42575,7 +42775,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -42723,7 +42924,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -42735,7 +42936,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -42883,7 +43085,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -42895,7 +43097,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -43043,7 +43246,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -43055,7 +43258,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -43203,7 +43407,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -43215,7 +43419,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -43363,7 +43568,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -43375,7 +43580,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -43523,7 +43729,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -43535,7 +43741,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -43683,7 +43890,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -43695,7 +43902,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -43843,7 +44051,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -43855,7 +44063,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -44003,7 +44212,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -44015,7 +44224,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -44163,7 +44373,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -44175,7 +44385,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -44323,7 +44534,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -44335,7 +44546,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -44483,7 +44695,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -44495,7 +44707,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -44643,7 +44856,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -44655,7 +44868,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -44803,7 +45017,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -44815,7 +45029,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -44963,7 +45178,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -44975,7 +45190,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -45123,7 +45339,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -45135,7 +45351,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -45283,7 +45500,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -45295,7 +45512,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -45443,7 +45661,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -45455,7 +45673,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -45603,7 +45822,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -45615,7 +45834,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -45763,7 +45983,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -45775,7 +45995,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -45923,7 +46144,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -45935,7 +46156,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -46083,7 +46305,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -46095,7 +46317,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -46242,7 +46465,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-5.669291338582678</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-15.944881889763781</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -46254,7 +46477,8 @@
                         <sld:VendorOption name="followLine">true</sld:VendorOption>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
                         <sld:VendorOption name="maxDisplacement">177.16535433070868</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">531.496062992126</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
@@ -46399,7 +46623,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -46409,8 +46633,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">2.2683584983761925E8</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -46553,7 +46777,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -46563,8 +46787,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">1.5122389989174613E8</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -46707,7 +46931,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -46717,8 +46941,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">7.561194994587307E7</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -46861,7 +47085,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -46871,8 +47095,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">3.780597497293653E7</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -47015,7 +47239,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -47025,8 +47249,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">1.8902987486468267E7</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -47169,7 +47393,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -47179,8 +47403,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">9451493.743234133</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -47323,7 +47547,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -47333,8 +47557,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">4725746.871617067</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -47477,7 +47701,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -47487,8 +47711,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">2362873.4358085333</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -47631,7 +47855,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -47641,8 +47865,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">1181436.7179042667</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -47785,7 +48009,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -47795,8 +48019,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">590718.3589521333</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -47939,7 +48163,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -47949,8 +48173,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">295359.17947606667</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -48093,7 +48317,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -48103,8 +48327,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">147679.58973803333</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -48247,7 +48471,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -48257,8 +48481,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">73839.79486901667</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -48401,7 +48625,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -48411,8 +48635,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">36919.89743450833</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -48555,7 +48779,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -48565,8 +48789,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">18459.948717254167</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -48709,7 +48933,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -48719,8 +48943,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">9229.974358627083</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -48863,7 +49087,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -48873,8 +49097,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">4614.987179313542</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -49017,7 +49241,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -49027,8 +49251,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">2307.493589656771</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -49171,7 +49395,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -49181,8 +49405,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">1153.7467948283854</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -49325,7 +49549,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -49335,8 +49559,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">576.8733974141927</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -49479,7 +49703,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -49489,8 +49713,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">288.43669870709635</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -49633,7 +49857,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -49643,8 +49867,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">144.21834935354818</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -49787,7 +50011,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -49797,8 +50021,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">72.10917467677409</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -49941,7 +50165,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -49951,8 +50175,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">36.054587338387044</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -50095,7 +50319,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -50105,8 +50329,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">18.027293669193522</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -50249,7 +50473,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -50259,8 +50483,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">9.013646834596761</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -50403,7 +50627,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -50413,8 +50637,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">4.5068234172983805</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -50557,7 +50781,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -50567,8 +50791,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">2.2534117086491903</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -50711,7 +50935,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -50721,8 +50945,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">1.1267058543245951</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -50865,7 +51089,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -50875,8 +51099,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">0.5633529271622976</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -51019,7 +51243,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -51029,8 +51253,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">0.2816764635811488</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             <sld:Rule>
@@ -51172,7 +51396,7 @@
                         </sld:Font>
                         <sld:LabelPlacement>
                             <sld:LinePlacement>
-                                <sld:PerpendicularOffset>-11.338582677165356</sld:PerpendicularOffset>
+                                <sld:PerpendicularOffset>-23.031496062992126</sld:PerpendicularOffset>
                             </sld:LinePlacement>
                         </sld:LabelPlacement>
                         <sld:Halo>
@@ -51182,8 +51406,8 @@
                             <CssParameter name="fill">#0000FF</CssParameter>
                         </sld:Fill>
                         <sld:VendorOption name="forceLeftToRight">false</sld:VendorOption>
-                        <sld:VendorOption name="goodnessOfFit">0</sld:VendorOption>
-                        <sld:VendorOption name="repeat">0.21125734768586163</sld:VendorOption>
+                        <sld:VendorOption name="goodnessOfFit">0.3</sld:VendorOption>
+                        <sld:VendorOption name="repeat">708.6614173228347</sld:VendorOption>
                     </sld:TextSymbolizer>
                 </sld:Rule>
             </sld:FeatureTypeStyle>
