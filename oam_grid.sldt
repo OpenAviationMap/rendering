@@ -42,6 +42,24 @@
                 </sld:Rule>
             </sld:FeatureTypeStyle>
 
+            <sld:FeatureTypeStyle>
+                <sld:Name>Subscale</sld:Name>
+                <sld:Rule>
+                    <ogc:Filter>
+                        <ogc:PropertyIsEqualTo>
+                            <ogc:PropertyName>subscale</ogc:PropertyName>
+                            <ogc:Literal>2</ogc:Literal>
+                        </ogc:PropertyIsEqualTo>
+                    </ogc:Filter>
+                    <sld:LineSymbolizer>
+                        <sld:Stroke>
+                            <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">0.05mm</sld:CssParameter>
+                        </sld:Stroke>
+                    </sld:LineSymbolizer>
+                </sld:Rule>
+            </sld:FeatureTypeStyle>
+
         </sld:UserStyle>
 
     </sld:NamedLayer>
