@@ -8810,14 +8810,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -8871,14 +8900,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -8932,14 +8990,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -8993,14 +9080,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9054,14 +9170,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9115,14 +9260,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9176,14 +9350,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9237,14 +9440,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9298,14 +9530,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9359,14 +9620,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9420,14 +9710,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9481,14 +9800,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9542,14 +9890,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9603,14 +9980,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9664,14 +10070,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9725,14 +10160,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9786,14 +10250,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9847,14 +10340,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9908,14 +10430,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -9969,14 +10520,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -10030,14 +10610,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -10091,14 +10700,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -10152,14 +10790,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -10213,14 +10880,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -10274,14 +10970,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -10335,14 +11060,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -10396,14 +11150,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -10457,14 +11240,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -10518,14 +11330,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -10579,14 +11420,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -10640,14 +11510,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>
@@ -10700,14 +11599,43 @@
                     </sld:PointSymbolizer>
                     <sld:TextSymbolizer>
                         <sld:Label>
-                            <ogc:Function name="strSubstring">
-                                <ogc:PropertyName>name</ogc:PropertyName>
-                                <ogc:Function name="parseInt">
-                                    <ogc:Literal>0</ogc:Literal>
+                            <ogc:Function name="if_then_else">
+                                <!-- this returns true if icao is not emtpy -->
+                                <ogc:Function name="parseBoolean">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
                                 </ogc:Function>
-                                <ogc:Function name="strLastIndexOf">
+                                <!-- display ICAO (name) if there is an ICAO code -->
+                                <ogc:Function name="Concatenate">
+                                    <ogc:PropertyName>icao</ogc:PropertyName>
+                                    <ogc:Literal> (</ogc:Literal>
+                                    <ogc:Function name="strSubstring">
+                                        <ogc:PropertyName>name</ogc:PropertyName>
+                                        <ogc:Function name="parseInt">
+                                            <ogc:Literal>0</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Sub>
+                                            <ogc:Function name="strLastIndexOf">
+                                                <ogc:PropertyName>name</ogc:PropertyName>
+                                                <ogc:Literal>ARP</ogc:Literal>
+                                            </ogc:Function>
+                                            <ogc:Literal>1</ogc:Literal>
+                                        </ogc:Sub>
+                                    </ogc:Function>
+                                    <ogc:Literal>)</ogc:Literal>
+                                </ogc:Function>
+                                <!-- display just the name otherwise -->
+                                <ogc:Function name="strSubstring">
                                     <ogc:PropertyName>name</ogc:PropertyName>
-                                    <ogc:Literal>ARP</ogc:Literal>
+                                    <ogc:Function name="parseInt">
+                                        <ogc:Literal>0</ogc:Literal>
+                                    </ogc:Function>
+                                    <ogc:Sub>
+                                        <ogc:Function name="strLastIndexOf">
+                                            <ogc:PropertyName>name</ogc:PropertyName>
+                                            <ogc:Literal>ARP</ogc:Literal>
+                                        </ogc:Function>
+                                        <ogc:Literal>1</ogc:Literal>
+                                    </ogc:Sub>
                                 </ogc:Function>
                             </ogc:Function>
                         </sld:Label>

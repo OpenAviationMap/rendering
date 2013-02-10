@@ -51,6 +51,7 @@ way         aeroway             text
 way         width               text
 
 node        id                      text
+node        icao                    text
 node        arp                     text
 node        height                  text
 node        height:class            text
