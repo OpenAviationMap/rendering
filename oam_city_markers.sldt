@@ -15,6 +15,7 @@
             <sld:FeatureTypeStyle>
                 <sld:Name>Towns</sld:Name>
                 <sld:Rule>
+                    <sld:MaxScaleDenominator>500000</sld:MaxScaleDenominator>
                     <ogc:Filter>
                         <ogc:PropertyIsEqualTo>
                             <ogc:PropertyName>place</ogc:PropertyName>
@@ -39,6 +40,7 @@
             <sld:FeatureTypeStyle>
                 <sld:Name>Villages</sld:Name>
                 <sld:Rule>
+                    <sld:MaxScaleDenominator>500000</sld:MaxScaleDenominator>
                     <ogc:Filter>
                         <ogc:PropertyIsEqualTo>
                             <ogc:PropertyName>place</ogc:PropertyName>

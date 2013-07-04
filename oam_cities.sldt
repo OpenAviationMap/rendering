@@ -34,6 +34,7 @@
             <sld:FeatureTypeStyle>
                 <sld:Name>Cities smaller structures</sld:Name>
                 <sld:Rule>
+                    <sld:MaxScaleDenominator>1000000</sld:MaxScaleDenominator>
                     <ogc:Filter>
                         <ogc:Or>
                             <ogc:PropertyIsEqualTo>
@@ -201,6 +202,7 @@
             <sld:FeatureTypeStyle>
                 <sld:Name>Cities</sld:Name>
                 <sld:Rule>
+                    <sld:MaxScaleDenominator>500000</sld:MaxScaleDenominator>
                     <ogc:Filter>
                         <ogc:Or>
                             <ogc:PropertyIsEqualTo>

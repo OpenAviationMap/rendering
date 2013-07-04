@@ -15,6 +15,7 @@
             <sld:FeatureTypeStyle>
                 <sld:Name>Peaks</sld:Name>
                 <sld:Rule>
+                    <sld:MaxScaleDenominator>500000</sld:MaxScaleDenominator>
                     <ogc:Filter>
                         <ogc:And>
                             <ogc:PropertyIsEqualTo>
@@ -95,6 +96,7 @@
             <sld:FeatureTypeStyle>
                 <sld:Name>Masts &amp; towers</sld:Name>
                 <sld:Rule>
+                    <sld:MaxScaleDenominator>500000</sld:MaxScaleDenominator>
                     <ogc:Filter>
                         <ogc:Or>
                             <ogc:PropertyIsEqualTo>
