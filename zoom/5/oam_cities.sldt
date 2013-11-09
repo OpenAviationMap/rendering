@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sld:StyledLayerDescriptor xmlns="http://www.opengis.net/sld" xmlns:sld="http://www.opengis.net/sld" xmlns:ogc="http://www.opengis.net/ogc" xmlns:gml="http://www.opengis.net/gml" version="1.0.0">
+    <sld:NamedLayer>
+        <sld:Name>Open Aviation Map cities</sld:Name>
+        <sld:UserStyle>
+            <sld:Name>Cities and cultural boundaries</sld:Name>
+            <sld:Title/>
+
+            <sld:FeatureTypeStyle>
+                <sld:Name>National Borders</sld:Name>
+                <sld:Rule>
+                    <ogc:Filter>
+                        <ogc:And>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>boundary</ogc:PropertyName>
+                                <ogc:Literal>administrative</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>admin_level</ogc:PropertyName>
+                                <ogc:Literal>2</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                        </ogc:And>
+                    </ogc:Filter>
+                    <sld:PolygonSymbolizer>
+                        <sld:Stroke>
+                            <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">0.5mm</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">1mm 1mm 1mm 1mm 5mm 1mm</sld:CssParameter>
+                        </sld:Stroke>
+                    </sld:PolygonSymbolizer>
+                </sld:Rule>
+            </sld:FeatureTypeStyle>
+
+            <sld:FeatureTypeStyle>
+                <sld:Name>Cities</sld:Name>
+                <sld:Rule>
+                    <sld:MaxScaleDenominator>500000</sld:MaxScaleDenominator>
+                    <ogc:Filter>
+                        <ogc:Or>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>landuse</ogc:PropertyName>
+                                <ogc:Literal>residential</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>landuse</ogc:PropertyName>
+                                <ogc:Literal>industrial</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>landuse</ogc:PropertyName>
+                                <ogc:Literal>commercial</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>landuse</ogc:PropertyName>
+                                <ogc:Literal>park</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>landuse</ogc:PropertyName>
+                                <ogc:Literal>parking</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                        </ogc:Or>
+                    </ogc:Filter>
+                    <sld:PolygonSymbolizer>
+                        <sld:Fill>
+                            <sld:CssParameter name="fill">#FFFFA3</sld:CssParameter>
+                        </sld:Fill>
+                        <sld:Stroke>
+                            <sld:CssParameter name="stroke">#999999</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">0.05mm</sld:CssParameter>
+                        </sld:Stroke>
+                    </sld:PolygonSymbolizer>
+                </sld:Rule>
+            </sld:FeatureTypeStyle>
+
+            <sld:FeatureTypeStyle>
+                <sld:Name>Budapest</sld:Name>
+                <sld:Rule>
+                    <ogc:Filter>
+                        <ogc:And>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>boundary</ogc:PropertyName>
+                                <ogc:Literal>administrative</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>admin_level</ogc:PropertyName>
+                                <ogc:Literal>6</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>name</ogc:PropertyName>
+                                <ogc:Literal>Budapest</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                        </ogc:And>
+                    </ogc:Filter>
+                    <sld:PolygonSymbolizer>
+                        <sld:Fill>
+                            <sld:CssParameter name="fill">#FFFFA3</sld:CssParameter>
+                        </sld:Fill>
+                        <sld:Stroke>
+                            <sld:CssParameter name="stroke">#999999</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">0.05mm</sld:CssParameter>
+                        </sld:Stroke>
+                    </sld:PolygonSymbolizer>
+                </sld:Rule>
+            </sld:FeatureTypeStyle>
+
+        </sld:UserStyle>
+    </sld:NamedLayer>
+</sld:StyledLayerDescriptor>

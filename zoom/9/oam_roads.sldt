@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sld:StyledLayerDescriptor
+    xmlns="http://www.opengis.net/sld"
+    xmlns:sld="http://www.opengis.net/sld"
+    xmlns:ogc="http://www.opengis.net/ogc"
+    xmlns:gml="http://www.opengis.net/gml"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.0.0">
+    <sld:NamedLayer>
+        <sld:Name>Roads</sld:Name>
+        <sld:UserStyle>
+            <sld:Name>Roads</sld:Name>
+            <sld:Title/>
+
+            <sld:FeatureTypeStyle>
+                <sld:Rule>
+                    <sld:Name>tertiary</sld:Name>
+                    <sld:MaxScaleDenominator>1000000</sld:MaxScaleDenominator>
+                    <ogc:Filter>
+                        <ogc:Or>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>highway</ogc:PropertyName>
+                                <ogc:Literal>tertiary</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>highway</ogc:PropertyName>
+                                <ogc:Literal>unclassified</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                        </ogc:Or>
+                    </ogc:Filter>
+                    <sld:LineSymbolizer>
+                        <sld:Stroke>
+                            <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">0.3mm</sld:CssParameter>
+                        </sld:Stroke>
+                    </sld:LineSymbolizer>
+                </sld:Rule>
+            </sld:FeatureTypeStyle>
+
+            <sld:FeatureTypeStyle>
+                <sld:Rule>
+                    <sld:Name>secondary</sld:Name>
+                    <sld:MaxScaleDenominator>500000</sld:MaxScaleDenominator>
+                    <ogc:Filter>
+                        <ogc:Or>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>highway</ogc:PropertyName>
+                                <ogc:Literal>secondary</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>highway</ogc:PropertyName>
+                                <ogc:Literal>highway_link</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>highway</ogc:PropertyName>
+                                <ogc:Literal>motorway_link</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>highway</ogc:PropertyName>
+                                <ogc:Literal>trunk_link</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                        </ogc:Or>
+                    </ogc:Filter>
+                    <sld:LineSymbolizer>
+                        <sld:Stroke>
+                            <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">0.4mm</sld:CssParameter>
+                        </sld:Stroke>
+                    </sld:LineSymbolizer>
+                </sld:Rule>
+            </sld:FeatureTypeStyle>
+
+            <sld:FeatureTypeStyle>
+                <sld:Rule>
+                    <sld:Name>highway-outer</sld:Name>
+                    <sld:MaxScaleDenominator>1000000</sld:MaxScaleDenominator>
+                    <ogc:Filter>
+                        <ogc:PropertyIsEqualTo>
+                            <ogc:PropertyName>highway</ogc:PropertyName>
+                            <ogc:Literal>primary</ogc:Literal>
+                        </ogc:PropertyIsEqualTo>
+                    </ogc:Filter>
+                    <sld:LineSymbolizer>
+                        <sld:Stroke>
+                            <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">0.5mm</sld:CssParameter>
+                            <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
+                        </sld:Stroke>
+                    </sld:LineSymbolizer>
+                </sld:Rule>
+            </sld:FeatureTypeStyle>
+            <sld:FeatureTypeStyle>
+                <sld:Rule>
+                    <sld:Name>highway-inner</sld:Name>
+                    <sld:MaxScaleDenominator>1000000</sld:MaxScaleDenominator>
+                    <ogc:Filter>
+                        <ogc:PropertyIsEqualTo>
+                            <ogc:PropertyName>highway</ogc:PropertyName>
+                            <ogc:Literal>primary</ogc:Literal>
+                        </ogc:PropertyIsEqualTo>
+                    </ogc:Filter>
+                    <sld:LineSymbolizer>
+                        <sld:Stroke>
+                            <sld:CssParameter name="stroke">#FFFFFF</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">0.4mm</sld:CssParameter>
+                            <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
+                        </sld:Stroke>
+                    </sld:LineSymbolizer>
+                </sld:Rule>
+            </sld:FeatureTypeStyle>
+
+            <sld:FeatureTypeStyle>
+                <sld:Rule>
+                    <sld:Name>motorway</sld:Name>
+                    <sld:MaxScaleDenominator>1000000</sld:MaxScaleDenominator>
+                    <ogc:Filter>
+                        <ogc:Or>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>highway</ogc:PropertyName>
+                                <ogc:Literal>motorway</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>highway</ogc:PropertyName>
+                                <ogc:Literal>trunk</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                        </ogc:Or>
+                    </ogc:Filter>
+                    <sld:LineSymbolizer>
+                        <sld:Stroke>
+                            <sld:CssParameter name="stroke">#B7943C</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">0.5mm</sld:CssParameter>
+                            <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
+                        </sld:Stroke>
+                    </sld:LineSymbolizer>
+                </sld:Rule>
+            </sld:FeatureTypeStyle>
+
+            <sld:FeatureTypeStyle>
+                <sld:Rule>
+                    <sld:Name>railway</sld:Name>
+                    <sld:MaxScaleDenominator>1000000</sld:MaxScaleDenominator>
+                    <ogc:Filter>
+                        <ogc:Or>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>railway</ogc:PropertyName>
+                                <ogc:Literal>rail</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>railway</ogc:PropertyName>
+                                <ogc:Literal>light_rail</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                        </ogc:Or>
+                    </ogc:Filter>
+                    <sld:LineSymbolizer>
+                        <sld:Stroke>
+                            <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">0.5mm</sld:CssParameter>
+                        </sld:Stroke>
+                    </sld:LineSymbolizer>
+                    <sld:LineSymbolizer>
+                        <sld:Stroke>
+                            <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">1.5mm</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dasharray">0.1mm 7mm</sld:CssParameter>
+                        </sld:Stroke>
+                    </sld:LineSymbolizer>
+                </sld:Rule>
+            </sld:FeatureTypeStyle>
+
+            <sld:FeatureTypeStyle>
+                <sld:Rule>
+                    <sld:Name>power lines</sld:Name>
+                    <sld:MaxScaleDenominator>1000000</sld:MaxScaleDenominator>
+                    <ogc:Filter>
+                        <ogc:Or>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>power</ogc:PropertyName>
+                                <ogc:Literal>line</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                            <ogc:PropertyIsEqualTo>
+                                <ogc:PropertyName>power</ogc:PropertyName>
+                                <ogc:Literal>minor_line</ogc:Literal>
+                            </ogc:PropertyIsEqualTo>
+                        </ogc:Or>
+                    </ogc:Filter>
+                    <sld:LineSymbolizer>
+                        <sld:Stroke>
+                            <sld:CssParameter name="stroke">#FF0000</sld:CssParameter>
+                            <sld:CssParameter name="stroke-width">0.05mm</sld:CssParameter>
+                        </sld:Stroke>
+                    </sld:LineSymbolizer>
+                    <sld:LineSymbolizer>
+                        <sld:Stroke>
+                            <sld:GraphicStroke>
+                                <sld:Graphic>
+                                    <sld:ExternalGraphic>
+                                        <sld:OnlineResource xlink:type="simple" xlink:href="power_line.svg"/>
+                                        <sld:Format>image/svg+xml</sld:Format>
+                                    </sld:ExternalGraphic>
+                                    <sld:Size>5mm</sld:Size>
+                                </sld:Graphic>
+                            </sld:GraphicStroke>
+                            <sld:CssParameter name="stroke-dasharray">5mm 30mm</sld:CssParameter>
+                            <sld:CssParameter name="stroke-dashoffset">5mm</sld:CssParameter>
+                        </sld:Stroke>
+                    </sld:LineSymbolizer>
+                </sld:Rule>
+            </sld:FeatureTypeStyle>
+
+        </sld:UserStyle>
+    </sld:NamedLayer>
+</sld:StyledLayerDescriptor>
